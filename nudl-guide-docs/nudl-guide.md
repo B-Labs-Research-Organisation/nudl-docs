@@ -32,15 +32,15 @@ What to look out for when installing Nudl on your system!
     
     To install on your server, click on the installation link (available, soon):
     
-    ![image.png](image.png)
+    ![image.png](Nudl%20Guide/image.png)
     
     Then grant permission:
     
-    ![image.png](image%201.png)
+    ![image.png](Nudl%20Guide/image%201.png)
     
     Nuld is installed:
     
-    ![image.png](image%202.png)
+    ![image.png](Nudl%20Guide/image%202.png)
     
     ### 2. Customise permissions globally for your **server**
     
@@ -48,15 +48,15 @@ What to look out for when installing Nudl on your system!
     
     Server Settings → 
     
-    ![image.png](image%203.png)
+    ![image.png](Nudl%20Guide/image%203.png)
     
     Integrations → 
     
-    ![image.png](image%204.png)
+    ![image.png](Nudl%20Guide/image%204.png)
     
     Bots and Apps
     
-    ![image.png](image%205.png)
+    ![image.png](Nudl%20Guide/image%205.png)
     
     Head to **Nudl** and press **Manage** to see the Command Permissions. Here, you can limit Nudl to particular “Channels” as well as “Roles & Members”. Default setting is All channels, All Members. In the “Commands” section you can open or limit access to Nudl commands to certain users or tags. See the Discord domumentation for further details how to use this feature.
     
