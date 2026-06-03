@@ -1,7 +1,5 @@
 # Nudl Guide
 
-Owner: Nudl
-Tags: Help Guides, Process
 
 <aside>
 
