@@ -1,9 +1,7 @@
-# Nudl Guide
+# Welcome to Nudl Guide
 
 
 <aside>
-
-**Welcome to the Nudl Guide!**
 
 Nudl is a payment app which facilitates payouts to multiple users from your Safe and personal wallet.   
 
