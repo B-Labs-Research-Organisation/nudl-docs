@@ -82,7 +82,7 @@ What to look out for when installing Nudl on your system!
     
     Head to the chosen channel → Edit channel (⚙️) → “Permissions” → “Add Members or roles”
     
-    ![grafik.png](Nudl%20Guide/grafik.png)
+    ![grafik.png](nudl-guide-asset/grafik.png)
     
     Select Nudl from the **Roles** listing and add:
     
