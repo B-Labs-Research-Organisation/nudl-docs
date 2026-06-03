@@ -32,15 +32,15 @@ What to look out for when installing Nudl on your system!
     
     To install on your server, click on the installation link (available, soon):
     
-    ![image.png](Nudl%20Guide/image.png)
+    ![image.png](nudl-guide-assets/image.png)
     
     Then grant permission:
     
-    ![image.png](Nudl%20Guide/image%201.png)
+    ![image.png](nudl-guide-assets/image%201.png)
     
     Nuld is installed:
     
-    ![image.png](Nudl%20Guide/image%202.png)
+    ![image.png](nudl-guide-assets/image%202.png)
     
     ### 2. Customise permissions globally for your **server**
     
@@ -48,15 +48,15 @@ What to look out for when installing Nudl on your system!
     
     Server Settings → 
     
-    ![image.png](Nudl%20Guide/image%203.png)
+    ![image.png](nudl-guide-assets/image%203.png)
     
     Integrations → 
     
-    ![image.png](Nudl%20Guide/image%204.png)
+    ![image.png](nudl-guide-assets/image%204.png)
     
     Bots and Apps
     
-    ![image.png](Nudl%20Guide/image%205.png)
+    ![image.png](nudl-guide-assets/image%205.png)
     
     Head to **Nudl** and press **Manage** to see the Command Permissions. Here, you can limit Nudl to particular “Channels” as well as “Roles & Members”. Default setting is All channels, All Members. In the “Commands” section you can open or limit access to Nudl commands to certain users or tags. See the Discord domumentation for further details how to use this feature.
     
@@ -82,17 +82,17 @@ What to look out for when installing Nudl on your system!
     
     Head to the chosen channel → Edit channel (⚙️) → “Permissions” → “Add Members or roles”
     
-    ![grafik.png](Nudl%20Guide/grafik.png)
+    ![grafik.png](nudl-guide-assets/grafik.png)
     
     Select Nudl from the **Roles** listing and add:
     
-    ![image.png|86](Nudl%20Guide/image%206.png)
+    ![image.png|86](nudl-guide-assets/image%206.png)
     
     *Set Nudl permissions:*
     
     Back on the Permissions  tab scroll down and open the “Advanced Permissions”. Select Nudl to the left and make sure the “View Channel” permission is activated: 
     
-    ![grafik.png](Nudl%20Guide/grafik%201.png)
+    ![grafik.png](nudl-guide-assets/grafik%201.png)
     
     <aside>
     ✅
@@ -124,25 +124,25 @@ What to look out for when installing Nudl on your system!
     
     To open your profile type **/nudl** in the Discord chat.
     
-    ![image.png](Nudl%20Guide/image%207.png)
+    ![image.png](nudl-guide-assets/image%207.png)
     
     Press Enter to open your profile:
     
-    ![image.png](Nudl%20Guide/image%208.png)
+    ![image.png](nudl-guide-assets/image%208.png)
     
     ### **Add Addresses**
     
     To add your wallet address, select **Add / update**.  You can set individual addresses for each network or set the same address for all networks.
     
-    ![image.png](Nudl%20Guide/image%209.png)
+    ![image.png](nudl-guide-assets/image%209.png)
     
     To set an individual address per network **Select a network**. 
     
-    ![image.png](Nudl%20Guide/image%2010.png)
+    ![image.png](nudl-guide-assets/image%2010.png)
     
     Or select **Set same addresss on all networks**:
     
-    ![image.png](Nudl%20Guide/image%2011.png)
+    ![image.png](nudl-guide-assets/image%2011.png)
     
     ### **Update Addresses**
     
@@ -150,25 +150,25 @@ What to look out for when installing Nudl on your system!
     
     When updating individual networks:
     
-    ![image.png](Nudl%20Guide/image%2012.png)
+    ![image.png](nudl-guide-assets/image%2012.png)
     
     When updating all networks choose between **override all set networks values** or add only to **networks without set values**:
     
-    ![image.png](Nudl%20Guide/image%2013.png)
+    ![image.png](nudl-guide-assets/image%2013.png)
     
     ### **Remove Addresses**
     
     You have the option to remove individual or all addresses:
     
-    ![image.png](Nudl%20Guide/image%2014.png)
+    ![image.png](nudl-guide-assets/image%2014.png)
     
     To remove an address, select a network and then **Yes, remove**:
     
-    ![image.png](Nudl%20Guide/image%2015.png)
+    ![image.png](nudl-guide-assets/image%2015.png)
     
     Or select **Remove all addresses** and then **Yes, remove all**:
     
-    ![image.png](Nudl%20Guide/image%2016.png)
+    ![image.png](nudl-guide-assets/image%2016.png)
     
     ### **View Profile**
     
@@ -176,7 +176,7 @@ What to look out for when installing Nudl on your system!
     
     **Show full** to expand:
     
-    ![image.png](Nudl%20Guide/image%2017.png)
+    ![image.png](nudl-guide-assets/image%2017.png)
     
     tutorial addresses
     
@@ -214,30 +214,30 @@ What to look out for when installing Nudl on your system!
     
     Type **/nudl-admin** into the Discord chat:
     
-    ![image.png](Nudl%20Guide/image%2018.png)
+    ![image.png](nudl-guide-assets/image%2018.png)
     
      
     
     Press **Enter** to open the Admin dashboard:
     
-    ![image.png](Nudl%20Guide/image%2019.png)
+    ![image.png](nudl-guide-assets/image%2019.png)
     
     ### Manage tokens
     
     Preset the tokens you customarily disburse to speed up the payment process. Tokens are added to each network. There is no limit of tokens you can add per network. Start by selecting a network and then press **Add token**:
     
-    ![image.png](Nudl%20Guide/image%2020.png)
+    ![image.png](nudl-guide-assets/image%2020.png)
     
     Add you token contract address into the modal and **Submit**.
     
-    ![image.png](Nudl%20Guide/image%2021.png)
+    ![image.png](nudl-guide-assets/image%2021.png)
     
     <aside>
     ℹ️
     
     ***Information:*** You can find token contract addresses in the project documentation or on sites such as [coingecko.com](http://coingecko.com) (DYOR!), see:
     
-    ![image.png](Nudl%20Guide/image%2022.png)
+    ![image.png](nudl-guide-assets/image%2022.png)
     
     </aside>
     
@@ -254,17 +254,17 @@ What to look out for when installing Nudl on your system!
     
     Start by selecting a network and then press **Add Safe**:
     
-    ![image.png](Nudl%20Guide/image%2023.png)
+    ![image.png](nudl-guide-assets/image%2023.png)
     
     Copy address  from [Safe.global](http://Safe.global) to enclude the network prefix:
     
-    ![Copy Safe Address.png](Nudl%20Guide/Copy_Safe_Address.png)
+    ![Copy Safe Address.png](nudl-guide-assets/Copy_Safe_Address.png)
     
-    ![image.png](Nudl%20Guide/image%2024.png)
+    ![image.png](nudl-guide-assets/image%2024.png)
     
     Add to modal and submit:
     
-    ![image.png](Nudl%20Guide/image%2025.png)
+    ![image.png](nudl-guide-assets/image%2025.png)
     
     ### Notify Users
     
@@ -272,15 +272,15 @@ What to look out for when installing Nudl on your system!
     
     To address all community members select a **Network**. Choose additional filters to refine:
     
-    ![image.png](Nudl%20Guide/image%2026.png)
+    ![image.png](nudl-guide-assets/image%2026.png)
     
     Click **Next: choose send channel** to specify in which channel you want to address your community. Make sure Nudl is enabled there.
     
-    ![image.png](Nudl%20Guide/image%2027.png)
+    ![image.png](nudl-guide-assets/image%2027.png)
     
     Then **Send notification**:
     
-    ![Nudl Notification.png](Nudl%20Guide/Nudl_Notification.png)
+    ![Nudl Notification.png](nudl-guide-assets/Nudl_Notification.png)
     
     <aside>
     ✅
@@ -397,15 +397,15 @@ What to look out for when installing Nudl on your system!
         
         **Option 1**: press **Back to Payout Setup** and re-enter **Set Token Address**:
         
-        ![image.png](Nudl%20Guide/image%2031.png)
+        ![image.png](nudl-guide-assets/image%2031.png)
         
         **Option 2**: provisionally select another token of your dropdown list:
         
-        ![image.png](Nudl%20Guide/image%2034.png)
+        ![image.png](nudl-guide-assets/image%2034.png)
         
         Then **Edit Token Address** and re-select **Add a new token (not listed)**:
         
-        ![image.png](Nudl%20Guide/image%2035.png)
+        ![image.png](nudl-guide-assets/image%2035.png)
         
         <aside>
         ✅
@@ -449,7 +449,7 @@ What to look out for when installing Nudl on your system!
         - Restart a new disbursement path with the correct network
         - Once you added a network you will see the following options:
             
-            ![image.png](Nudl%20Guide/image%2036.png)
+            ![image.png](nudl-guide-assets/image%2036.png)
             
         - Select **Manual paste** which will open the user modal.
         - Past the users and values you copied earlier and proceed as usual.
@@ -519,77 +519,77 @@ What to look out for when installing Nudl on your system!
         
         Select **Start payout** on the Nudl Admin dashboard:
         
-        ![image.png](Nudl%20Guide/image%2019.png)
+        ![image.png](nudl-guide-assets/image%2019.png)
         
         Select **Safe**:
         
-        ![image.png](Nudl%20Guide/image%2029.png)
+        ![image.png](nudl-guide-assets/image%2029.png)
         
         Select a network:
         
-        ![image.png](Nudl%20Guide/image%2042.png)
+        ![image.png](nudl-guide-assets/image%2042.png)
         
         Optionally select channel or role filter do best target the payout group. Press **Set amounts**:
         
-        ![image.png](Nudl%20Guide/image%2043.png)
+        ![image.png](nudl-guide-assets/image%2043.png)
         
         Add payment values after the comma:
         
-        ![image.png](Nudl%20Guide/image%2044.png)
+        ![image.png](nudl-guide-assets/image%2044.png)
         
         Add an optional **Donation** amount to the transaction to support work at Nudl.
         
         Or  **Continue Safe setup**:
         
-        ![image.png](Nudl%20Guide/image%2045.png)
+        ![image.png](nudl-guide-assets/image%2045.png)
         
         Add any donation amount here, **Submit** and then **Continue Safe setup**:
         
-        ![image.png](Nudl%20Guide/image%2046.png)
+        ![image.png](nudl-guide-assets/image%2046.png)
         
         Select a token and Safe address you have set up as described in the **Quickstart** section. Alternatively, set a new token address or set/replace a Safe address:
         
-        ![image.png](Nudl%20Guide/image%2047.png)
+        ![image.png](nudl-guide-assets/image%2047.png)
         
         **Set Token**:
         
-        ![image.png](Nudl%20Guide/image%2048.png)
+        ![image.png](nudl-guide-assets/image%2048.png)
         
         **Set Safe Address**:
         
-        ![image.png](Nudl%20Guide/image%2049.png)
+        ![image.png](nudl-guide-assets/image%2049.png)
         
         After setting you have the option to edit both addresses again:
         
-        ![Safe - Edit Addresses.png](Nudl%20Guide/Safe_-_Edit_Addresses.png)
+        ![Safe - Edit Addresses.png](nudl-guide-assets/Safe_-_Edit_Addresses.png)
         
         Generate Safe Payout JSON file and download:
         
-        ![Safe - Payment file.png](Nudl%20Guide/Safe_-_Payment_file.png)
+        ![Safe - Payment file.png](nudl-guide-assets/Safe_-_Payment_file.png)
         
         ### Step 2: Upload Nudl payout form to Safe
         
         Open your [SAFE](https://safe.global/) account and first verify that the address and network correspond with the selections made in **/admin_safe_payout**. After that, click on “New transaction” and then on “Transaction Builder”.
         
-        ![grafik.png](Nudl%20Guide/grafik%202.png)
+        ![grafik.png](nudl-guide-assets/grafik%202.png)
         
          Alternatively, navigate to the “App” section and select “Transaction Builder”.
         
-        ![grafik.png](Nudl%20Guide/grafik%203.png)
+        ![grafik.png](nudl-guide-assets/grafik%203.png)
         
         Upload the JSON file downloaded in step 1 above by clicking on the “*choose a file*” button located in the bottom right corner:
         
-        ![grafik.png](Nudl%20Guide/grafik%204.png)
+        ![grafik.png](nudl-guide-assets/grafik%204.png)
         
         Press “*Create a Batch*“:
         
-        ![grafik.png](Nudl%20Guide/grafik%205.png)
+        ![grafik.png](nudl-guide-assets/grafik%205.png)
         
         To review individual transactions, click on the pencil icon. If you are familiar with the process, you can make specific edits in the form, such as adjusting the values.
         
         To ensure everything is configured properly, simulate the transaction.
         
-        ![grafik.png](Nudl%20Guide/grafik%206.png)
+        ![grafik.png](nudl-guide-assets/grafik%206.png)
         
         If the simulation is successful begin the transaction by clicking "Send batch" and follow your usual multisig setup process.
         
@@ -606,37 +606,37 @@ What to look out for when installing Nudl on your system!
         
         Select **Start payout** on the Nudl Admin dashboard:
         
-        ![image.png](Nudl%20Guide/image%2019.png)
+        ![image.png](nudl-guide-assets/image%2019.png)
         
         Select **Disperse**:
         
-        ![image.png](Nudl%20Guide/image%2029.png)
+        ![image.png](nudl-guide-assets/image%2029.png)
         
         **Select a network**:
         
-        ![image.png](Nudl%20Guide/image%2050.png)
+        ![image.png](nudl-guide-assets/image%2050.png)
         
         Optionally select channel or role filter do best target the payout group. Press S**et amounts**:
         
-        ![image.png](Nudl%20Guide/image%2051.png)
+        ![image.png](nudl-guide-assets/image%2051.png)
         
         Add payment values after the comma:
         
-        ![image.png](Nudl%20Guide/image%2044.png)
+        ![image.png](nudl-guide-assets/image%2044.png)
         
         Add an optional **Donation** amount to the transaction to support work at Nudl.
         
         Or  **Generate Disperse file**:
         
-        ![image.png](Nudl%20Guide/image%2052.png)
+        ![image.png](nudl-guide-assets/image%2052.png)
         
         Add any donation amount here:
         
-        ![image.png](Nudl%20Guide/image%2046.png)
+        ![image.png](nudl-guide-assets/image%2046.png)
         
         Generate Safe Payout CSV file and download:
         
-        ![Disperse - Payment file.png](Nudl%20Guide/Disperse_-_Payment_file.png)
+        ![Disperse - Payment file.png](nudl-guide-assets/Disperse_-_Payment_file.png)
         
         ### Step 2: Upload Nudl payout form to Disperse and Smold.app
         
@@ -646,27 +646,27 @@ What to look out for when installing Nudl on your system!
         
         Select the network on Disperse:
         
-        ![image.png](Nudl%20Guide/image%2053.png)
+        ![image.png](nudl-guide-assets/image%2053.png)
         
         Select between ETH or token disbursement. If you choose a token add the token contract address. For more information where to find these see our Quickstart section. Then **load**:
         
-        ![image.png](Nudl%20Guide/image%2054.png)
+        ![image.png](nudl-guide-assets/image%2054.png)
         
         Open the Nudl file and **copy** the data which can include the headings.
         
-        ![image.png](Nudl%20Guide/image%2055.png)
+        ![image.png](nudl-guide-assets/image%2055.png)
         
         **Paste** into the “recipients and amounts” field:
         
-        ![image.png](Nudl%20Guide/image%2056.png)
+        ![image.png](nudl-guide-assets/image%2056.png)
         
         For confirmation the exact payment amounts, total and the wallet balance holding are calculated instantly:
         
-        ![Disperse - Payment grid.png](Nudl%20Guide/Disperse_-_Payment_grid.png)
+        ![Disperse - Payment grid.png](nudl-guide-assets/Disperse_-_Payment_grid.png)
         
         Approve token and disburse:
         
-        ![grafik.png](Nudl%20Guide/grafik%207.png)
+        ![grafik.png](nudl-guide-assets/grafik%207.png)
         
         <aside>
         ✅
@@ -679,23 +679,23 @@ What to look out for when installing Nudl on your system!
         
         To begin, choose Disperse at [Smol](https://smold.app/disperse), select the Disperse tab and log in with your preferred wallet.
         
-        ![grafik.png](Nudl%20Guide/grafik%208.png)
+        ![grafik.png](nudl-guide-assets/grafik%208.png)
         
         Select your token address. The Smol app allows you to search by token address or you can add one from a third party source. More information on token addresses see Quickstart :
         
-        ![image.png](Nudl%20Guide/image%2057.png)
+        ![image.png](nudl-guide-assets/image%2057.png)
         
         Upload the CSV file we downloaded from Nudl using **Import Configuration**:
         
-        ![image.png](Nudl%20Guide/image%2058.png)
+        ![image.png](nudl-guide-assets/image%2058.png)
         
         Check the upload details:
         
-        ![image.png](Nudl%20Guide/image%2059.png)
+        ![image.png](nudl-guide-assets/image%2059.png)
         
         Check the total amount, approve and execute the payout:
         
-        ![image.png](Nudl%20Guide/image%2060.png)
+        ![image.png](nudl-guide-assets/image%2060.png)
         
         <aside>
         ✅
@@ -718,45 +718,45 @@ What to look out for when installing Nudl on your system!
         
         Select **Start payout** on the Nudl Admin dashboard:
         
-        ![image.png](Nudl%20Guide/image%2019.png)
+        ![image.png](nudl-guide-assets/image%2019.png)
         
         Select **CSV Airdrop**:
         
-        ![image.png](Nudl%20Guide/image%2029.png)
+        ![image.png](nudl-guide-assets/image%2029.png)
         
         **Select a network**:
         
-        ![image.png](Nudl%20Guide/image%2061.png)
+        ![image.png](nudl-guide-assets/image%2061.png)
         
         Optionally select channel or role filter do best target the payout group. Press **Set amounts**:
         
-        ![image.png](Nudl%20Guide/image%2062.png)
+        ![image.png](nudl-guide-assets/image%2062.png)
         
         Add payment values after the comma, then **Submit**:
         
-        ![image.png](Nudl%20Guide/image%2063.png)
+        ![image.png](nudl-guide-assets/image%2063.png)
         
         Add an optional **Donation** amount to the transaction to support work at Nudl.
         
         Or **Select token**:
         
-        ![image.png](Nudl%20Guide/image%2064.png)
+        ![image.png](nudl-guide-assets/image%2064.png)
         
         Add any donation amount here and **Submit** then **Select token**:
         
-        ![image.png](Nudl%20Guide/image%2046.png)
+        ![image.png](nudl-guide-assets/image%2046.png)
         
         Select a token you have set up as described in the **Quickstart** section. Alternatively, set a new token address:
         
-        ![image.png](Nudl%20Guide/image%2065.png)
+        ![image.png](nudl-guide-assets/image%2065.png)
         
         **Generate CSV Airdrop file**:
         
-        ![image.png](Nudl%20Guide/image%2066.png)
+        ![image.png](nudl-guide-assets/image%2066.png)
         
         **Generate CSV Airdrop file** and download:
         
-        ![CSV Airdrop - Disbursement file.png](Nudl%20Guide/CSV_Airdrop_-_Disbursement_file.png)
+        ![CSV Airdrop - Disbursement file.png](nudl-guide-assets/CSV_Airdrop_-_Disbursement_file.png)
         
         ### Step 2: Upload Nudl payout form to CSV Airdrop in Safe
         
@@ -764,40 +764,40 @@ What to look out for when installing Nudl on your system!
         
         Search for CSV Ardrop under App section.
         
-        ![image.png](Nudl%20Guide/image%2067.png)
+        ![image.png](nudl-guide-assets/image%2067.png)
         
         Select:
         
-        ![image.png](Nudl%20Guide/image%2068.png)
+        ![image.png](nudl-guide-assets/image%2068.png)
         
         Confirm:
         
-        ![image.png](Nudl%20Guide/image%2069.png)
+        ![image.png](nudl-guide-assets/image%2069.png)
         
         Upload the Nudl disbursement file downloaded above:
         
-        ![image.png](Nudl%20Guide/image%2070.png)
+        ![image.png](nudl-guide-assets/image%2070.png)
         
         Upload the Nudl CSV file:
         
-        ![CSV - Paste Values.png](Nudl%20Guide/CSV_-_Paste_Values.png)
+        ![CSV - Paste Values.png](nudl-guide-assets/CSV_-_Paste_Values.png)
         
         <aside>
         📌
         
         ***Note:*** To speed things up you can expand the file field in Nudl (or open the downloaded Nudl file) **copy** the data **including** the headings, and **paste** into the CSV Aridrop data field:
         
-        ![CSV Airdrop File.png](Nudl%20Guide/CSV_Airdrop_File.png)
+        ![CSV Airdrop File.png](nudl-guide-assets/CSV_Airdrop_File.png)
         
         </aside>
         
         Review all entries, check amounts and total in **Summary** then **Submit**:
         
-        ![image.png](Nudl%20Guide/image%2071.png)
+        ![image.png](nudl-guide-assets/image%2071.png)
         
         Start the Safe Multisig transaction:
         
-        ![CSV Airdrop - Safe Upload.png](Nudl%20Guide/CSV_Airdrop_-_Safe_Upload.png)
+        ![CSV Airdrop - Safe Upload.png](nudl-guide-assets/CSV_Airdrop_-_Safe_Upload.png)
         
         <aside>
         ✅
@@ -813,31 +813,31 @@ What to look out for when installing Nudl on your system!
         
         Select **Start payout** on the Nudl Admin dashboard:
         
-        ![image.png](Nudl%20Guide/image%2072.png)
+        ![image.png](nudl-guide-assets/image%2072.png)
         
         Select **Nudl Web:**
         
-        ![image.png](Nudl%20Guide/image%2029.png)
+        ![image.png](nudl-guide-assets/image%2029.png)
         
         **Select a network**:
         
-        ![image.png](Nudl%20Guide/image%2073.png)
+        ![image.png](nudl-guide-assets/image%2073.png)
         
         Optionally select channel or role filter do best target the payout group. Press **Set amounts**:
         
-        ![image.png](Nudl%20Guide/image%2074.png)
+        ![image.png](nudl-guide-assets/image%2074.png)
         
         Add payment **values** and/or **points** after the comma, then **Submit**:
         
-        ![image.png](Nudl%20Guide/image%2075.png)
+        ![image.png](nudl-guide-assets/image%2075.png)
         
         **Generate Nudl Web CSV**:
         
-        ![image.png](Nudl%20Guide/image%2076.png)
+        ![image.png](nudl-guide-assets/image%2076.png)
         
         Download the CSV file/connect to Nudl web:
         
-        ![Nudl_Web - Create file.png](Nudl%20Guide/Nudl_Web_-_Create_file.png)
+        ![Nudl_Web - Create file.png](nudl-guide-assets/Nudl_Web_-_Create_file.png)
         
         ### Step 2: Upload Nudl disbursement to Nudl site
         
@@ -863,17 +863,17 @@ What to look out for when installing Nudl on your system!
     
     Click the **Address directory** button on the Admin dashboard:
     
-    ![image.png](Nudl%20Guide/image%2019.png)
+    ![image.png](nudl-guide-assets/image%2019.png)
     
     The Nudl provides you with different options:
     
-    ![image.png](Nudl%20Guide/image%2077.png)
+    ![image.png](nudl-guide-assets/image%2077.png)
     
     ### Browse directory
     
     Select Browse directory, then set the desired filters. Choose amongst Network (mandatory), Role and Channel:
     
-    ![image.png](Nudl%20Guide/image%2078.png)
+    ![image.png](nudl-guide-assets/image%2078.png)
     
     This will list the respective wallet holders and their corresponding addresses. You have the option to export your search results as CSV file.
     
@@ -888,13 +888,13 @@ What to look out for when installing Nudl on your system!
     
     To clarify whether an address is associated with a user, select **Lookup by address**, add the address to the modal and **Search**:
     
-    ![image.png](Nudl%20Guide/image%2079.png)
+    ![image.png](nudl-guide-assets/image%2079.png)
     
     ### Lookup by username
     
     To clarify which address is associated with a particular user, select **Lookup by username**:
     
-    ![image.png](Nudl%20Guide/image%2080.png)
+    ![image.png](nudl-guide-assets/image%2080.png)
     
     This will list the respective wallet holder and their corresponding addresses. You have the option to export your search results as CSV file.
     
@@ -995,19 +995,19 @@ What to look out for when installing Nudl on your system!
     
     Select **Remove Safe**:
     
-    ![Safe overview.png](Nudl%20Guide/Safe_overview.png)
+    ![Safe overview.png](nudl-guide-assets/Safe_overview.png)
     
     **Select Safe to remove**:
     
-    ![image.png](Nudl%20Guide/image%2095.png)
+    ![image.png](nudl-guide-assets/image%2095.png)
     
     Confirm **Yes, remove**:
     
-    ![Remove Safe confirm.png](Nudl%20Guide/Remove_Safe_confirm.png)
+    ![Remove Safe confirm.png](nudl-guide-assets/Remove_Safe_confirm.png)
     
     The removal is confirmed:
     
-    ![Safe removal confirmation.png](Nudl%20Guide/Safe_removal_confirmation.png)
+    ![Safe removal confirmation.png](nudl-guide-assets/Safe_removal_confirmation.png)
     
     <aside>
     ✅
@@ -1068,7 +1068,7 @@ What to look out for when installing Nudl on your system!
     3. Highlight the Discord ID column and change the formatting to “Text,” then click “OK” to import.
     </aside>
     
-    ![Truncated User ID.png](Nudl%20Guide/Truncated_User_ID.png)
+    ![Truncated User ID.png](nudl-guide-assets/Truncated_User_ID.png)
     
     ## **Error messages**
     
@@ -1079,7 +1079,7 @@ What to look out for when installing Nudl on your system!
     
     </aside>
     
-    ![Error message.png](Nudl%20Guide/Error_message.png)
+    ![Error message.png](nudl-guide-assets/Error_message.png)
     
     ## **Formatting**
     
@@ -1090,7 +1090,7 @@ What to look out for when installing Nudl on your system!
     
     </aside>
     
-    ![grafik.png](Nudl%20Guide/grafik%209.png)
+    ![grafik.png](nudl-guide-assets/grafik%209.png)
     
 - Glossary of Terms
     
