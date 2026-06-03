@@ -32,15 +32,15 @@ What to look out for when installing Nudl on your system!
     
     To install on your server, click on the installation link (available, soon):
     
-    ![image.png](Nudl%20Guide/image.png)
+    ![image.png](image.png)
     
     Then grant permission:
     
-    ![image.png](Nudl%20Guide/image%201.png)
+    ![image.png](image%201.png)
     
     Nuld is installed:
     
-    ![image.png](Nudl%20Guide/image%202.png)
+    ![image.png](image%202.png)
     
     ### 2. Customise permissions globally for your **server**
     
@@ -48,15 +48,15 @@ What to look out for when installing Nudl on your system!
     
     Server Settings → 
     
-    ![image.png](Nudl%20Guide/image%203.png)
+    ![image.png](image%203.png)
     
     Integrations → 
     
-    ![image.png](Nudl%20Guide/image%204.png)
+    ![image.png](image%204.png)
     
     Bots and Apps
     
-    ![image.png](Nudl%20Guide/image%205.png)
+    ![image.png](image%205.png)
     
     Head to **Nudl** and press **Manage** to see the Command Permissions. Here, you can limit Nudl to particular “Channels” as well as “Roles & Members”. Default setting is All channels, All Members. In the “Commands” section you can open or limit access to Nudl commands to certain users or tags. See the Discord domumentation for further details how to use this feature.
     
@@ -333,7 +333,7 @@ What to look out for when installing Nudl on your system!
         
         First, open the **Admin dashboard** with **/nudl-admin**:
         
-        ![image.png](Nudl%20Guide/image%2028.png)
+        ![image.png](image%2028.png)
         
         **Option 1**: Select Manage tokens, see Quickstart for details.
         
@@ -341,27 +341,27 @@ What to look out for when installing Nudl on your system!
         
         Select **Start payout**:
         
-        ![image.png](Nudl%20Guide/image%2019.png)
+        ![image.png](image%2019.png)
         
         Select Safe or CSV airdrop:
         
-        ![image.png](Nudl%20Guide/image%2029.png)
+        ![image.png](image%2029.png)
         
         **Set Token Address**:
         
-        ![image.png](Nudl%20Guide/image%2030.png)
+        ![image.png](image%2030.png)
         
         Click on **Choose an existing token or add a new one**:
         
-        ![image.png](Nudl%20Guide/image%2031.png)
+        ![image.png](image%2031.png)
         
         Click on **Add a new token (not listed)**:
         
-        ![image.png](Nudl%20Guide/image%2032.png)
+        ![image.png](image%2032.png)
         
         Add the token contract address and **Submit**:
         
-        ![image.png](Nudl%20Guide/image%2021.png)
+        ![image.png](image%2021.png)
         
         <aside>
         ✅
@@ -382,11 +382,11 @@ What to look out for when installing Nudl on your system!
         
         The **Add Token Address** modal was opened but your pressed **Cancel**:
         
-        ![image.png](Nudl%20Guide/image%2021.png)
+        ![image.png](image%2021.png)
         
         System considers the cancellation as final and closes the process:
         
-        ![image.png](Nudl%20Guide/image%2033.png)
+        ![image.png](image%2033.png)
         
         <aside>
         📌
@@ -423,11 +423,11 @@ What to look out for when installing Nudl on your system!
         
         When no value is set for a user in the modal Nudl generates an error message within the disbursement file:
         
-        ![Editing Disbursement File.png](Nudl%20Guide/Editing_Disbursement_File.png)
+        ![Editing Disbursement File.png](Editing_Disbursement_File.png)
         
         Select **Show Last Issues** to recive an overview:
         
-        ![Show Last Issues.png](Nudl%20Guide/Show_Last_Issues.png)
+        ![Show Last Issues.png](Show_Last_Issues.png)
         
         #### Editing
         
@@ -460,19 +460,19 @@ What to look out for when installing Nudl on your system!
         
         To remove a token open the **Admin dashboard**, select **Manage tokens** and **Select a network**:
         
-        ![image.png](Nudl%20Guide/image%2037.png)
+        ![image.png](image%2037.png)
         
         Click **Remove Token**, then **Select a token to remove** and choose a token from the list:
         
-        ![image.png](Nudl%20Guide/image%2038.png)
+        ![image.png](image%2038.png)
         
         Confirm **Yes, Remove**:
         
-        ![image.png](Nudl%20Guide/image%2039.png)
+        ![image.png](image%2039.png)
         
         You have the options to manage further tokens:
         
-        ![image.png](Nudl%20Guide/image%2040.png)
+        ![image.png](image%2040.png)
         
         <aside>
         ✅
@@ -485,7 +485,7 @@ What to look out for when installing Nudl on your system!
         
         All payment paths allow to manually ingest user and payment data:
         
-        ![image.png](Nudl%20Guide/image%2041.png)
+        ![image.png](image%2041.png)
         
         This can be a helpful and speedy way to manage repeat payments to the same recipients with the same values that you have conducted in the past and have stored in a previous disbursement file. Make sure you paste the data in the correct format. 
         
@@ -904,51 +904,51 @@ What to look out for when installing Nudl on your system!
     
     Use **/nudl-admin** to open the Nudl **Admin dashboard** and select **Notify missing addresses**:
     
-    ![image.png](Nudl%20Guide/image%2019.png)
+    ![image.png](image%2019.png)
     
     Select a **Network (required)**, fine-tune further using channel and role filters :
     
-    ![image.png](Nudl%20Guide/image%2081.png)
+    ![image.png](image%2081.png)
     
      
     
     **Next: choose send channel**:
     
-    ![image.png](Nudl%20Guide/image%2082.png)
+    ![image.png](image%2082.png)
     
     Modify default channel where to post the notification. Nudl must be enabled there!
     
     Then **Send notification**:
     
-    ![image.png](Nudl%20Guide/image%2083.png)
+    ![image.png](image%2083.png)
     
     If you send a notification to a channel in which Nudl is not activated:
     
-    ![image.png](Nudl%20Guide/image%2084.png)
+    ![image.png](image%2084.png)
     
     If you send a notification to a channel to which a user has no access:
     
-    ![image.png](Nudl%20Guide/image%2085.png)
+    ![image.png](image%2085.png)
     
     You will receive a confirmation once successfully sent:
     
-    ![image.png](Nudl%20Guide/image%2086.png)
+    ![image.png](image%2086.png)
     
     Users can choose to use the dedicated **Add address button** or **/nudl** command:
     
-    ![Notification notice.png](Nudl%20Guide/Notification_notice.png)
+    ![Notification notice.png](Notification_notice.png)
     
     Press the **Add token address** button to open the modal:
     
-    ![image.png](Nudl%20Guide/image%2087.png)
+    ![image.png](image%2087.png)
     
     Anyone in the channel has button access. A user with an address already set is informed:
     
-    ![Notification - already added.png](Nudl%20Guide/Notification_-_already_added.png)
+    ![Notification - already added.png](Notification_-_already_added.png)
     
     Once saved you will receive your address overview:
     
-    ![image.png](Nudl%20Guide/image%2088.png)
+    ![image.png](image%2088.png)
     
 - Manage tokens and Safes ✅
     
@@ -960,29 +960,29 @@ What to look out for when installing Nudl on your system!
     
     Open the Admin dashboard using **/nudl-admin** and select **Manage tokens** or **Manage Safes**:
     
-    ![image.png](Nudl%20Guide/image%2089.png)
+    ![image.png](image%2089.png)
     
     ### Removing a token
     
     Select a network:
     
-    ![image.png](Nudl%20Guide/image%2090.png)
+    ![image.png](image%2090.png)
     
     Choose Remove Token
     
-    ![image.png](Nudl%20Guide/image%2091.png)
+    ![image.png](image%2091.png)
     
     Seklect the token to be removed:
     
-    ![image.png](Nudl%20Guide/image%2092.png)
+    ![image.png](image%2092.png)
     
     Confirm **Yes, Remove**:
     
-    ![image.png](Nudl%20Guide/image%2093.png)
+    ![image.png](image%2093.png)
     
     The removal is confirmed:
     
-    ![image.png](Nudl%20Guide/image%2094.png)
+    ![image.png](image%2094.png)
     
     <aside>
     ✅
