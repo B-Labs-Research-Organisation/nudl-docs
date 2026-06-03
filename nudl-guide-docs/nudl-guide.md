@@ -97,7 +97,7 @@ What to look out for when installing Nudl on your system!
     <aside>
     ✅
     
-    **Success:** You are done! Now head over to [Nudl Guide](Nudl%20Guide%202243d2d745b18067820dd624c18d2131.md) to set yourself up.
+    **Congratulations:** You have successfully installed Nudl!
     
     </aside>
     
