@@ -89,7 +89,7 @@ What to look out for when installing Nudl on your system!
     ![grafik.png](nudl-guide-assets/grafik%201.png)
 
 
-    ✅ ** Congratulations:** You have successfully installed Nudl!
+    >✅ ** Congratulations:** You have successfully installed Nudl!
     
     
 
