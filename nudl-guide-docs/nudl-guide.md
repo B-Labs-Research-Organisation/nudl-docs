@@ -193,10 +193,8 @@ What to look out for when installing Nudl on your system!
     
     ### Install Nudl
     
-    Nudl is a Discord app which needs to be installed onto your server.
-    
-    Find further information here: [Installation Guide](https://app.notion.com/p/Installation-Guide-2243d2d745b1802a8300c2b6c1e0163b?pvs=21).
-    
+    Install Nudl onto your Discord server as described in the Installing Nudl instructions chapter.
+        
     ### Admin permissions
     
     <aside>
