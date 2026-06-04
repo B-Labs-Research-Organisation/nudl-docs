@@ -193,8 +193,8 @@ What to look out for when installing Nudl on your system!
     
     ### Install Nudl
     
-    Install Nudl onto your Discord server as described in the Installing Nudl instructions chapter.
-        
+    Follow the "Installing Nudl" chapter above to set up Nudl on your Discord server.
+    
     ### Admin permissions
     
     <aside>
