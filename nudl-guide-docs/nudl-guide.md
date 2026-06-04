@@ -56,12 +56,8 @@ What to look out for when installing Nudl on your system!
     
     Head to **Nudl** and press **Manage** to see the Command Permissions. Here, you can limit Nudl to particular “Channels” as well as “Roles & Members”. Default setting is All channels, All Members. In the “Commands” section you can open or limit access to Nudl commands to certain users or tags. See the Discord domumentation for further details how to use this feature.
     
-    <aside>
-    📌
+    >📌 **Note:** By design **Nudl admin** commands can only be accessed by **Discord server admins**. Therefore it is not possible to delegate admins permissions to members without Discord admin rights in your server.
     
-    **Note:** By design **Nudl admin** commands can only be accessed by **Discord server admins**. Therefore it is not possible to delegate admins permissions to members without Discord admin rights in your server.
-    
-    </aside>
     
     <aside>
     🛠️
