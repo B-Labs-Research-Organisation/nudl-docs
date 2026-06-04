@@ -17,10 +17,10 @@ All you need to do is choose your preferred transaction path.
 
 ## 🔍 Installing Nudl
 
-<aside>
+
 What to look out for when installing Nudl on your system!
 
-</aside>
+
 
 - Installing Nudl on Discord ✅
     
@@ -55,18 +55,12 @@ What to look out for when installing Nudl on your system!
     ![image.png](nudl-guide-assets/image%205.png)
     
     Head to **Nudl** and press **Manage** to see the Command Permissions. Here, you can limit Nudl to particular “Channels” as well as “Roles & Members”. Default setting is All channels, All Members. In the “Commands” section you can open or limit access to Nudl commands to certain users or tags. See the Discord domumentation for further details how to use this feature.
-
-
     
     >📌 **Note:** By design **Nudl admin** commands can only be accessed by **Discord server admins**. Therefore it is not possible to delegate admins permissions to members without Discord admin rights in your server.
     
-
-
     
     >🛠️ **Work Tip:** Depending on the size of your community, we suggest using a designated channel for Nudl to avoid messages and prompts from going under.
     
-
-
     
     ### *3. Private channels: customise permissions locally per **channel***
     
@@ -87,9 +81,10 @@ What to look out for when installing Nudl on your system!
     Back on the Permissions  tab scroll down and open the “Advanced Permissions”. Select Nudl to the left and make sure the “View Channel” permission is activated: 
     
     ![grafik.png](nudl-guide-assets/grafik%201.png)
-
-
-    >✅ ** Congratulations:** You have successfully installed Nudl!
+    
+	
+	
+	>✅ ** Congratulations:** You have successfully installed Nudl!
     
     
 
