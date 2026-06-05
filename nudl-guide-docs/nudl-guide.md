@@ -85,86 +85,86 @@ What to look out for when installing Nudl on your system!
 
 ## 👥 User Sections
 
-- What you need to know as a Users ✅
+### What you need to know as a  User ✅
+
+Nudl is easy and safe to use. A user can access and manage their profile using a single command and retain full control over their data. An Admin cannot add, modify or remove user data. In particular, a user can:
+
+- Add addresses
+- Update addresses
+- Remove addresses
+- View profile
+
+
+>📌 ***Note:*** Admins cannot add, modify or remove addresses a user sets in Nudl, but they can process, filter and download them into a file to manage them on or offline, among other to process payments or for accounting purposes.
+
+### Getting started
+
+To open your profile type **/nudl** in the Discord chat.
+
+![image.png](nudl-guide-assets/image%207.png)
+
+Press Enter to open your profile:
+
+![image.png](nudl-guide-assets/image%208.png)
+
+
+### **Add Addresses**
+
+To add your wallet address, select **Add / update**.  You can set individual addresses for each network or set the same address for all networks.
+
+![image.png](nudl-guide-assets/image%209.png)
+
+To set an individual address per network **Select a network**. 
+
+![image.png](nudl-guide-assets/image%2010.png)
+
+Or select **Set same addresss on all networks**:
+
+![image.png](nudl-guide-assets/image%2011.png)
+
+
+
+### **Update Addresses**
+
+Before you update individual or all networks, review options before confirming.
+
+When updating individual networks:
+
+![image.png](nudl-guide-assets/image%2012.png)
+
+When updating all networks choose between **override all set networks values** or add only to **networks without set values**:
+
+![image.png](nudl-guide-assets/image%2013.png)
     
-    Nudl is easy and safe to use. A user can access and manage their profile using a single command and retain full control over their data. An Admin cannot add, modify or remove user data. In particular, a user can:
-    
-    - Add addresses
-    - Update addresses
-    - Remove addresses
-    - View profile
-    
-    <aside>
-    📌
-    
-    ***Note:*** Admins cannot add, modify or remove addresses a user sets in Nudl, but they can process, filter and download them into a file to manage them on or offline, among other to process payments or for accounting purposes.
-    
-    </aside>
-    
-    ### Getting started
-    
-    To open your profile type **/nudl** in the Discord chat.
-    
-    ![image.png](nudl-guide-assets/image%207.png)
-    
-    Press Enter to open your profile:
-    
-    ![image.png](nudl-guide-assets/image%208.png)
-    
-    ### **Add Addresses**
-    
-    To add your wallet address, select **Add / update**.  You can set individual addresses for each network or set the same address for all networks.
-    
-    ![image.png](nudl-guide-assets/image%209.png)
-    
-    To set an individual address per network **Select a network**. 
-    
-    ![image.png](nudl-guide-assets/image%2010.png)
-    
-    Or select **Set same addresss on all networks**:
-    
-    ![image.png](nudl-guide-assets/image%2011.png)
-    
-    ### **Update Addresses**
-    
-    Before you update individual or all networks, review options before confirming.
-    
-    When updating individual networks:
-    
-    ![image.png](nudl-guide-assets/image%2012.png)
-    
-    When updating all networks choose between **override all set networks values** or add only to **networks without set values**:
-    
-    ![image.png](nudl-guide-assets/image%2013.png)
-    
-    ### **Remove Addresses**
-    
-    You have the option to remove individual or all addresses:
-    
-    ![image.png](nudl-guide-assets/image%2014.png)
-    
-    To remove an address, select a network and then **Yes, remove**:
-    
-    ![image.png](nudl-guide-assets/image%2015.png)
-    
-    Or select **Remove all addresses** and then **Yes, remove all**:
-    
-    ![image.png](nudl-guide-assets/image%2016.png)
-    
-    ### **View Profile**
-    
-    After setting your addresses, access your ****profile using **←Back** button or **/nudl** command.
-    
-    **Show full** to expand:
-    
-    ![image.png](nudl-guide-assets/image%2017.png)
-    
-    tutorial addresses
-    
-    0x9ebda21de56278951a73f20dc2bac54e3edca6c0
-    
-    0xf3f24e5fbd6efcdbeddac59bdcdfaf5ee3a720ab
-    
+### **Remove Addresses**
+
+You have the option to remove individual or all addresses:
+
+![image.png](nudl-guide-assets/image%2014.png)
+
+To remove an address, select a network and then **Yes, remove**:
+
+![image.png](nudl-guide-assets/image%2015.png)
+
+Or select **Remove all addresses** and then **Yes, remove all**:
+
+![image.png](nudl-guide-assets/image%2016.png)
+
+### **View Profile**
+
+After setting your addresses, access your ****profile using **←Back** button or **/nudl** command.
+
+**Show full** to expand:
+
+![image.png](nudl-guide-assets/image%2017.png)
+
+
+tutorial addresses
+
+0x9ebda21de56278951a73f20dc2bac54e3edca6c0
+
+0xf3f24e5fbd6efcdbeddac59bdcdfaf5ee3a720ab
+
 
 ## ⚙️ Admin Sections
 
