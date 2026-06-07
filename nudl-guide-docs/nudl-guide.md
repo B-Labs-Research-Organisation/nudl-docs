@@ -341,9 +341,9 @@ Then **Edit Token Address** and re-select **Add a new token (not listed)**:
 
 #### Editing a disbursement file
 
-You can edit any of the final disbursement files, either because Nudl flags errors, e.g. you did not assign a value to one of the listed users (see below: "..., missing amount"),  or you want to modify the final payment file. Press the Edite
+You can edit any of the final disbursement files, either because Nudl flags errors, e.g. you did not assign a value to one of the listed users (see below: "..., missing amount"),  or you want to modify the final payment file. Press the **Edit CSV** and it will bring you back to the user editing field. You can also review any flagged irregularities by accessing **Show Last Issues**.
 
-![Edit disbursement file|576](Edit%20disbursement%20file.png)
+![Edit disbursement file](Edit-disbursement-file.png)
 
 ##### Nudl Error prompt
 
