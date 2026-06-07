@@ -19,7 +19,7 @@ To install on your server, click on the installation link (available, soon):
 
 Then grant permission:
 
-![image.png](installation-window.png)
+![Installation window](installation-window.png)
 
 Nuld is installed:
 
