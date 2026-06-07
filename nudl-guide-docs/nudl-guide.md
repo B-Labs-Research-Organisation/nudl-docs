@@ -15,11 +15,11 @@ What to look out for when installing Nudl on your system!
 
 To install on your server, click on the installation link (available, soon):
 
-![image.png](nudl-guide-assets/image.png)
+![Installation window](installation-window/image.png)
 
 Then grant permission:
 
-![image.png](nudl-guide-assets/image%201.png)
+![image.png](installation-window.png)
 
 Nuld is installed:
 
