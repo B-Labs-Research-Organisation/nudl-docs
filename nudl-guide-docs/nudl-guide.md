@@ -15,7 +15,7 @@ What to look out for when installing Nudl on your system!
 
 To install on your server, click on the installation link (available, soon):
 
-![Installation prompt](nudl-guide-assets/Installation-prompt.png)
+
 
 Then grant permission:
 
