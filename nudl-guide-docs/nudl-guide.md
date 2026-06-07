@@ -15,16 +15,15 @@ What to look out for when installing Nudl on your system!
 
 To install on your server, click on the installation link (available, soon):
 
-![Installation prompt](Installation-prompt.png)
+![image.png](nudl-guide-assets/image.png)
 
 Then grant permission:
 
-![Grant permissions](Grant-permissions.png)
-
+![image.png](nudl-guide-assets/image%201.png)
 
 Nuld is installed:
 
-![Successful installation](Successful-installation.png)
+![image.png](nudl-guide-assets/image%202.png)
 
 ### 2. Customise permissions globally for your **server**
 
@@ -342,9 +341,9 @@ Then **Edit Token Address** and re-select **Add a new token (not listed)**:
 
 #### Editing a disbursement file
 
-You can edit any of the final disbursement files to address errors or to simply modify. Press the **Edit CSV** and it will bring you back to the section where you set the amounts for each user. You can also review any issues found by accessing **Show Last Issues**.
+You can edit any of the final disbursement files, either because Nudl flags errors, e.g. you did not assign a value to one of the listed users (see below: "..., missing amount"),  or you want to modify the final payment file. Press the Edite
 
-![Edit a disbursement file](Edit-disbursement-file.png)
+![Edit disbursement file|576](Edit%20disbursement%20file.png)
 
 ##### Nudl Error prompt
 
@@ -379,7 +378,7 @@ To modify your payment file select **Edit CSV**.  This will bring you back to th
 
 To remove a token open the **Admin dashboard**, select **Manage tokens** and **Select a network**:
 
-![image.png|588](image%2037.png)
+![image.png](image%2037.png)
 
 Click **Remove Token**, then **Select a token to remove** and choose a token from the list:
 
