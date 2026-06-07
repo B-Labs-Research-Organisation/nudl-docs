@@ -341,9 +341,9 @@ Then **Edit Token Address** and re-select **Add a new token (not listed)**:
 
 #### Editing a disbursement file
 
-You can edit any of the final disbursement files, either because Nudl flags errors, e.g. you did not assign a value to one of the listed users (see below: "..., missing amount"),  or you want to modify the final payment file. Press the **Edit CSV** and it will bring you back to the user editing field. You can also review any flagged irregularities by accessing **Show Last Issues**.
+You can edit any of the final disbursement files to address errors or to simply modify. Press the **Edit CSV** and it will bring you back to the section where you set the amounts for each user. You can also review any issues found by accessing **Show Last Issues**.
 
-![Edit disbursement file](Edit-disbursement-file.png)
+![Edit disbursement file|582](Edit-disbursement-file.png)
 
 ##### Nudl Error prompt
 
@@ -378,7 +378,7 @@ To modify your payment file select **Edit CSV**.  This will bring you back to th
 
 To remove a token open the **Admin dashboard**, select **Manage tokens** and **Select a network**:
 
-![image.png](image%2037.png)
+![image.png|588](image%2037.png)
 
 Click **Remove Token**, then **Select a token to remove** and choose a token from the list:
 
