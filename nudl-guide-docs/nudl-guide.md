@@ -344,7 +344,7 @@ Then **Edit Token Address** and re-select **Add a new token (not listed)**:
 
 You can edit any of the final disbursement files to address errors or to simply modify. Press the **Edit CSV** and it will bring you back to the section where you set the amounts for each user. You can also review any issues found by accessing **Show Last Issues**.
 
-![](Edit-disbursement-file.png)
+![Edit a disbursement file](Edit-disbursement-file.png)
 
 ##### Nudl Error prompt
 
