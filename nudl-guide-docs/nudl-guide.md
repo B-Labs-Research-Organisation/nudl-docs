@@ -378,7 +378,7 @@ To modify your payment file select **Edit CSV**.  This will bring you back to th
 
 To remove a token open the **Admin dashboard**, select **Manage tokens** and **Select a network**:
 
-![image.png](image%2037.png)
+![image.png|588](image%2037.png)
 
 Click **Remove Token**, then **Select a token to remove** and choose a token from the list:
 
