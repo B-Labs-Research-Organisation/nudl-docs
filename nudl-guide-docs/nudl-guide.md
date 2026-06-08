@@ -272,19 +272,16 @@ The donation wallet address set in the system is: **0x18f89f1cd153644e3ef6e70894
 
 Nudl offers two ways to add a token.
 
-First, open the **Admin dashboard** with **/nudl-admin**:
-
-![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
-
 **Option 1**: Select Manage tokens, see Quickstart for details.
 
 **Option 2**: Add tokens while building your **Safe** or **CSV Airdrop** disbursement file. The process is identical for all disbursement paths. We will use the Safe disbursement to illustrate.
 
-Select **Start payout**:
-        
-![image.png](image%2019.png)
+First, open the **Admin dashboard** with **/nudl-admin** and Select **Start payout**:
 
-Select Safe or CSV airdrop:
+![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
+
+
+Select **Safe** or **CSV Airdrop**:
 
 ![image.png](image%2029.png)
 
