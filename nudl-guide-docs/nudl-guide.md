@@ -21,9 +21,9 @@ Then grant permission:
 
 ![Grant permissions](nudl-guide-assets/Grant-permissions.png)
 
-Nuld is installed:
+Nudl is installed:
 
-![](nudl-guide-assets/Successful-installation.png)
+![Successful installation](nudl-guide-assets/Successful-installation.png)
 
 ### 2. Customise permissions globally for your **server**
 
