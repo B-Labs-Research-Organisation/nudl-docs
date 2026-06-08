@@ -419,7 +419,7 @@ Nudl currently supports disbursements on [SAFE](https://safe.global/), [Disperse
 
 Select **Start payout** on the Nudl Admin dashboard:
 
-![image.png](nudl-guide-assets/image%2019.png)
+![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
 
 Select **Safe**:
 
@@ -503,7 +503,7 @@ If the simulation is successful begin the transaction by clicking "Send batch" a
 
 Select **Start payout** on the Nudl Admin dashboard:
 
-![image.png](nudl-guide-assets/image%2019.png)
+![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
 
 Select **Disperse**:
 
@@ -604,7 +604,7 @@ Check the total amount, approve and execute the payout:
 
 Select **Start payout** on the Nudl Admin dashboard:
 
-![image.png](nudl-guide-assets/image%2019.png)
+![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
 
 Select **CSV Airdrop**:
 
@@ -692,8 +692,8 @@ Start the Safe Multisig transaction:
 ##### Step 1: Create a payout form in Nudl Web
 
 Select **Start payout** on the Nudl Admin dashboard:
-
-![image.png](nudl-guide-assets/image%2072.png)
+admin-dashboard
+![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
 
 Select **Nudl Web:**
 
@@ -773,7 +773,7 @@ Nudl features a notification tool to inform users fo your community to add their
 
 Use **/nudl-admin** to open the Nudl **Admin dashboard** and select **Notify missing addresses**:
 
-![image.png](image%2019.png)
+![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
 
 Select a **Network (required)**, fine-tune further using channel and role filters :
 
