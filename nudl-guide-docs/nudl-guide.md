@@ -295,7 +295,7 @@ Click on **Choose an existing token or add a new one**:
 
 Click on **Add a new token (not listed)**:
 
-![image.png](image%2032.png)
+![Select to add a new token](nudl-guide-assets/add-a-new-token.png)
 
 Add the token contract address and **Submit**:
 
