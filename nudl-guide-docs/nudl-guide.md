@@ -382,7 +382,7 @@ Click **Remove Token**, then **Select a token to remove** and choose a token fro
 
 Confirm **Yes, Remove**:
 
-![image.png](image%2039.png)
+![Confirm removal of selected token](nudl-guide-assets/confirm-token-removal.png)
 
 You have the options to manage further tokens:
 
