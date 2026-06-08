@@ -287,7 +287,7 @@ Select **Safe** or **CSV Airdrop**:
 
 **Set Token Address**:
 
-![image.png](image%2030.png)
+![Set a token address](nudl-guide-assets/safe-payout-setup.png)
 
 Click on **Choose an existing token or add a new one**:
 
