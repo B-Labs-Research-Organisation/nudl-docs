@@ -26,8 +26,6 @@ Nudl is installed:
 ![Successful installation](nudl-guide-assets/Successful-installation.png)
 
 
-![](nudl-guide-assets/Pasted%20image%2020260608105541.png)
-
 ### 2. Customise permissions globally for your **server**
 
 By default, Nudl is granted access to all channels, and all users have access to Nudl. If you wish to restrict this access to a specific channel or users, navigate to your server name at the top left of your screen, click on the “v” next to the server name to open the dropdown menu. Head to:
