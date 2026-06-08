@@ -332,7 +332,7 @@ System considers the cancellation as final and closes the process:
 
 Then **Edit Token Address** and re-select **Add a new token (not listed)**:
 
-![image.png](nudl-guide-assets/image%2035.png)
+![Edit a token contract address](nudl-guide-assets/edit-token-address.png)
 
 
 >✅ ***Congratulations:*** You have sucessfully restarted the Add Token Address flow.
