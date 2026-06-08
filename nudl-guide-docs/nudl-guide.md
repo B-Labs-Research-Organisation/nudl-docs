@@ -349,7 +349,7 @@ You can edit any of the final disbursement files to address errors or to simply 
 
 Review any issues found by accessing **Show Last Issues**.
 
-![Show Last Issues.png](Show_Last_Issues.png)
+![Show last issues.png](show-last-issues.png)
 
 ##### Editing
 
