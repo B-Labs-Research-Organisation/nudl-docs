@@ -283,7 +283,7 @@ First, open the **Admin dashboard** with **/nudl-admin** and Select **Start payo
 
 Select **Safe** or **CSV Airdrop**:
 
-![image.png](image%2029.png)
+![Select Safe or CSV Airdrop](nudl-guide-assets/start-payout-options.png)
 
 **Set Token Address**:
 
@@ -420,7 +420,7 @@ Select **Start payout** on the Nudl Admin dashboard:
 
 Select **Safe**:
 
-![image.png](nudl-guide-assets/image%2029.png)
+![Select Safe](nudl-guide-assets/start-payout-options.png)
 
 Select a network:
 
@@ -504,7 +504,7 @@ Select **Start payout** on the Nudl Admin dashboard:
 
 Select **Disperse**:
 
-![image.png](nudl-guide-assets/image%2029.png)
+![Select Disperse](nudl-guide-assets/start-payout-options.png)
 
 **Select a network**:
 
@@ -605,7 +605,8 @@ Select **Start payout** on the Nudl Admin dashboard:
 
 Select **CSV Airdrop**:
 
-![image.png](nudl-guide-assets/image%2029.png)
+![Select Disperse](nudl-guide-assets/start-payout-options.png)
+
 
 **Select a network**:
 
@@ -695,7 +696,7 @@ admin-dashboard:
 
 Select **Nudl Web:**
 
-![image.png](nudl-guide-assets/image%2029.png)
+![Select Nudl Web](nudl-guide-assets/start-payout-options.png)
 
 **Select a network**:
 
@@ -732,7 +733,7 @@ Nudl admins can manage payment flows by accessing different filtering options. I
 
 Click the **Address directory** button on the Admin dashboard:
 
-![image.png](nudl-guide-assets/image%2019.png)
+![Select the address directory](nudl-guide-assets/admin-dashboard.png)
 
 The Nudl provides you with different options:
 
