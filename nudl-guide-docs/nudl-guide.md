@@ -395,7 +395,7 @@ You have the options to manage further tokens:
 
 All payment paths allow to manually ingest user and payment data:
 
-![image.png](image%2041.png)
+![Enter customised data](nudl-guide-assets/manual-paste.png)
 
 This can be a helpful and speedy way to manage repeat payments to the same recipients with the same values that you have conducted in the past and have stored in a previous disbursement file. Make sure you paste the data in the correct format. 
 
