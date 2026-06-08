@@ -194,7 +194,7 @@ Preset the tokens you customarily disburse to speed up the payment process. Toke
 
 Add you token contract address into the modal and **Submit**.
 
-![image.png](nudl-guide-assets/image%2021.png)
+![Add token contract and Submit](nudl-guide-assets/add-token-contract.png)
 
 >ℹ️ ***Information:*** You can find token contract addresses in the project documentation or on sites such as [coingecko.com](http://coingecko.com) (DYOR!), see:
 
@@ -299,7 +299,7 @@ Click on **Add a new token (not listed)**:
 
 Add the token contract address and **Submit**:
 
-![image.png](image%2021.png)
+![Add token contract and Submit](nudl-guide-assets/add-token-contract.png)
 
 
 >✅ ***Congratulations:*** You have sucessfully added and saved a new token to the Safe or CSV Airdrop payment stream.
@@ -312,7 +312,7 @@ Add the token contract address and **Submit**:
 
 The **Add Token Address** modal was opened but your pressed **Cancel**:
 
-![image.png](image%2021.png)
+![Add token contract and Submit](nudl-guide-assets/add-token-contract.png)
 
 System considers the cancellation as final and closes the process:
 
