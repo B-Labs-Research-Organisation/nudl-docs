@@ -165,7 +165,6 @@ tutorial addresses
 
 The Quickstart Guide runs you through the steps when setting up Nudl for the first time, inplementing its core functions.
 
-![](nudl-guide-assets/Successful-installation%201.png)
 #### Install Nudl
 
  Follow the "Installing Nudl" chapter above to set up Nudl on your Discord server.
