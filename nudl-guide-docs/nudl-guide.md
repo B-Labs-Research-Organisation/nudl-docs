@@ -274,7 +274,7 @@ Nudl offers two ways to add a token.
 
 First, open the **Admin dashboard** with **/nudl-admin**:
 
-![image.png](image%2028.png)
+![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
 
 **Option 1**: Select Manage tokens, see Quickstart for details.
 
