@@ -23,7 +23,7 @@ Then grant permission:
 
 Nuld is installed:
 
-
+![](nudl-guide-assets/Successful-installation.png)
 
 ### 2. Customise permissions globally for your **server**
 
