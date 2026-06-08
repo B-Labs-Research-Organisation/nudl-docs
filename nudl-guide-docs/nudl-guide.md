@@ -692,7 +692,8 @@ Start the Safe Multisig transaction:
 ##### Step 1: Create a payout form in Nudl Web
 
 Select **Start payout** on the Nudl Admin dashboard:
-admin-dashboard
+admin-dashboard:
+
 ![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
 
 Select **Nudl Web:**
