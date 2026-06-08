@@ -328,7 +328,7 @@ System considers the cancellation as final and closes the process:
 
 **Option 2**: provisionally select another token of your dropdown list:
 
-![image.png](nudl-guide-assets/image%2034.png)
+![Set a placeholder token](nudl-guide-assets/placeholder-token.png)
 
 Then **Edit Token Address** and re-select **Add a new token (not listed)**:
 
