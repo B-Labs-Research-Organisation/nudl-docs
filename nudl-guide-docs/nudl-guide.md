@@ -446,7 +446,7 @@ Add any donation amount here, **Submit** and then **Continue Safe setup**:
 
 Select a token and Safe address you have set up as described in the **Quickstart** section. Alternatively, set a new token address or set/replace a Safe address:
 
-![image.png](nudl-guide-assets/image%2047.png)
+![Set token and Safe address](nudl-guide-assets/safe-payout-setup.png)
 
 **Set Token**:
 
