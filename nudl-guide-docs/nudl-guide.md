@@ -386,7 +386,7 @@ Confirm **Yes, Remove**:
 
 You have the options to manage further tokens:
 
-![image.png](image%2040.png)
+![Token removal confirmed](nudl-guide-assets/token-removal-success.png)
 
   
 >✅ ***Congratulations:*** You have sucessfully removed a token from Nudl.
