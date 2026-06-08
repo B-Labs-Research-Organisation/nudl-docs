@@ -378,7 +378,7 @@ To remove a token open the **Admin dashboard**, select **Manage tokens** and **S
 
 Click **Remove Token**, then **Select a token to remove** and choose a token from the list:
 
-![image.png](image%2038.png)
+![Select the token to be removed](nudl-guide-assets/select-token-to-remove.png)
 
 Confirm **Yes, Remove**:
 
