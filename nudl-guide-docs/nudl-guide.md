@@ -184,7 +184,7 @@ Type **/nudl-admin** into the Discord chat:
 
 Press **Enter** to open the Admin dashboard:
 
-![image.png](nudl-guide-assets/image%2019.png)
+![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
 
 #### Manage tokens
 
