@@ -342,16 +342,12 @@ Then **Edit Token Address** and re-select **Add a new token (not listed)**:
 
 #### Editing a disbursement file
 
-You can edit any of the final disbursement files to address errors or to simply modify. Press the **Edit CSV** and it will bring you back to the section where you set the amounts for each user. You can also review any issues found by accessing **Show Last Issues**.
+You can edit any of the final disbursement files to address errors or to simply modify. Press the **Edit CSV** and it will bring you back to the section where you set the amounts for each user. 
+
+![Edit disbursement file](nudl-guide-assets/edit-disbursement-file.png)
 
 
-##### Nudl Error prompt
-
-When no value is set for a user in the modal Nudl generates an error message within the disbursement file:
-
-![Editing Disbursement File.png](Editing_Disbursement_File.png)
-
-Select **Show Last Issues** to recive an overview:
+Review any issues found by accessing **Show Last Issues**.
 
 ![Show Last Issues.png](Show_Last_Issues.png)
 
