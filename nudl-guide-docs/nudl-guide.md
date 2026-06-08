@@ -291,7 +291,7 @@ Select **Safe** or **CSV Airdrop**:
 
 Click on **Choose an existing token or add a new one**:
 
-![image.png](image%2031.png)
+![Select existing or set new token](nudl-guide-assets/select-or-add-token.png)
 
 Click on **Add a new token (not listed)**:
 
@@ -324,7 +324,7 @@ System considers the cancellation as final and closes the process:
 
 **Option 1**: press **Back to Payout Setup** and re-enter **Set Token Address**:
 
-![image.png](nudl-guide-assets/image%2031.png)
+![Select existing or set new token](nudl-guide-assets/select-or-add-token.png)
 
 **Option 2**: provisionally select another token of your dropdown list:
 
@@ -632,7 +632,7 @@ Add any donation amount here and **Submit** then **Select token**:
 
 Select a token you have set up as described in the **Quickstart** section. Alternatively, set a new token address:
 
-![image.png](nudl-guide-assets/image%2065.png)
+![Select existing or set new token](nudl-guide-assets/select-or-add-token.png)
 
 **Generate CSV Airdrop file**:
 
