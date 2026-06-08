@@ -316,7 +316,7 @@ The **Add Token Address** modal was opened but your pressed **Cancel**:
 
 System considers the cancellation as final and closes the process:
 
-![image.png](image%2033.png)
+![Ticked circle when cancelling a token add](nudl-guide-assets/cancel-adding-token.png)
 
   
 >📌 **Note:** If for any reason the modal is cancelled without adding a token contract you cannot reopen it again immediately. To reinitiate the process you have two options:
