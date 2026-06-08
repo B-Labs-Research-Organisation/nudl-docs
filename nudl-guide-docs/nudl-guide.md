@@ -349,7 +349,7 @@ You can edit any of the final disbursement files to address errors or to simply 
 
 Review any issues found by accessing **Show Last Issues**.
 
-![Show last issues.png](show-last-issues.png)
+![Show last issues.png](nudl-guide-assets/show-last-issues.png)
 
 ##### Editing
 
