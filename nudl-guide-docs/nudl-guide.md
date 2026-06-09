@@ -94,11 +94,11 @@ Nudl is easy and safe to use. A user can access and manage their profile using a
 
 To open your profile type **/nudl** in the Discord chat.
 
-![image.png](nudl-guide-assets/image%207.png)
+![](nudl-guide-assets/nudl-user-cmd.png)
 
 Press Enter to open your profile:
 
-![image.png](nudl-guide-assets/image%208.png)
+![](nudl-guide-assets/nudl-address-overview.png)
 
 
 ### Add Addresses
