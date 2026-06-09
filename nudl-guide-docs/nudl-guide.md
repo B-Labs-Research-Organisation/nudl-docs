@@ -918,7 +918,7 @@ If you use LibreOffice or Excel instead, following these steps:
 3. Highlight the Discord ID column and change the formatting to “Text,” then click “OK” to import.
 
 
-![Truncated User ID.png](nudl-guide-assets/truncated-user-id.png)
+![How to modify the CSV Text Import](nudl-guide-assets/truncated-user-id.png)
 
 ## Error messages
 
@@ -927,7 +927,7 @@ If you use LibreOffice or Excel instead, following these steps:
 
 
 
-![Error message.png](nudl-guide-assets/Error_message.png)
+![Highlights issues found during processing by Nudl](nudl-guide-assets/address-error-message.png)
 
 ## Formatting
 
@@ -935,7 +935,7 @@ If you use LibreOffice or Excel instead, following these steps:
 >ℹ️ ***Information:*** Nudl is format sensitive. If you enter the data into the Payout modal without the preset “,“, Nudl will not be able to read the data entry and you will receive an error message:
 
 
-![grafik.png](nudl-guide-assets/grafik%209.png)
+![Indicates incorrrect formatting upon entry](nudl-guide-assets/formatting-error-message.png)
 
 ## Glossary of Terms
 
