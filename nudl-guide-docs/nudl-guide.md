@@ -918,7 +918,7 @@ If you use LibreOffice or Excel instead, following these steps:
 3. Highlight the Discord ID column and change the formatting to “Text,” then click “OK” to import.
 
 
-![Truncated User ID.png](nudl-guide-assets/Truncated_User_ID.png)
+![Truncated User ID.png](nudl-guide-assets/truncated-user-id.png)
 
 ## Error messages
 
