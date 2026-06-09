@@ -845,7 +845,7 @@ Choose **Remove Token**:
 
 Select the token to be removed:
 
-![image.png](image%2092.png)
+![Select the token to be removed](nudl-guide-assets/select-token-to-remove.png)
 
 Confirm **Yes, Remove**:
 
