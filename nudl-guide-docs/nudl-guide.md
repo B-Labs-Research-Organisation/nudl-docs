@@ -875,7 +875,7 @@ Confirm **Yes, remove**:
 
 The removal is confirmed:
 
-![Safe removal confirmation.png](nudl-guide-assets/Safe_removal_confirmation.png)
+![The Safe removal is confirmed](nudl-guide-assets/safe-removal-confirmation.png)
 
 >✅ ***Congratulations:*** You have succcessfully removed your Safe from Nudl!
 
