@@ -371,19 +371,19 @@ To modify your payment file select **Edit CSV**.  This will bring you back to th
 
 To remove a token open the **Admin dashboard**, select **Manage tokens** and **Select a network**:
 
-![Select a network|505](nudl-guide-assets/remove-token-network-select.png)
+![Select a network](nudl-guide-assets/remove-token-network-select.png)
 
 Click **Remove Token**, then **Select a token to remove** and choose a token from the list:
 
-![Select the token to be removed|418](nudl-guide-assets/select-token-to-remove.png)
+![Select the token to be removed](nudl-guide-assets/select-token-to-remove.png)
 
 Confirm **Yes, Remove**:
 
-![Confirm removal of selected token|550](nudl-guide-assets/confirm-token-removal.png)
+![Confirm removal of selected token](nudl-guide-assets/confirm-token-removal.png)
 
 You have the options to manage further tokens:
 
-![Token removal confirmed|422](nudl-guide-assets/token-removal-success.png)
+![Token removal confirmed](nudl-guide-assets/token-removal-success.png)
 
   
 >✅ ***Congratulations:*** You have sucessfully removed a token from Nudl.
