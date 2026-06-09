@@ -808,7 +808,7 @@ Users can choose to use the dedicated **Add address button** or **/nudl** comman
 
 Press the **Add token address** button to open the modal:
 
-![image.png](image%2087.png)
+![Add the required wallet address](nudl-guide-assets/notification-modal.png)
 
 Anyone in the channel has button access. A user with an address already set is informed:
 
