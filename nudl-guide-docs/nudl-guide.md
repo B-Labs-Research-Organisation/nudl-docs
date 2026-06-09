@@ -796,7 +796,7 @@ If you send a notification to a channel in which Nudl is not activated:
 
 If you send a notification to a channel to which a user has no access:
 
-![image.png](image%2085.png)
+![A tagged user will not be able to access this channel](nudl-guide-assets/user-no-access.png)
 
 You will receive a confirmation once successfully sent:
 
