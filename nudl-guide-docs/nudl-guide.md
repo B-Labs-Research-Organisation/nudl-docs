@@ -863,7 +863,7 @@ The removal is confirmed:
 
 Select **Remove Safe**:
 
-![Safe overview.png](nudl-guide-assets/Safe_overview.png)
+![Open the Manage Safe dashboard](nudl-guide-assets/manage-safe-dashboard.png)
 
 **Select Safe to remove**:
 
