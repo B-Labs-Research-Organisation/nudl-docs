@@ -820,7 +820,7 @@ Once saved you will receive your address overview:
 
 
 
-### Manage tokens and Safes ✅
+### Manage tokens and Safes - removal ✅
 
 #### Introduction
 
@@ -828,7 +828,7 @@ How to add tokens and safes is discussed in **Quickstart** section.
 
 We will review how to **remove** each here.
 
-Open the Admin dashboard using **/nudl-admin** and select **Manage tokens** or **Manage Safes**:
+Start either process by opening the Admin dashboard using **/nudl-admin** and select **Manage tokens** or **Manage Safes**:
 
 ![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
 
