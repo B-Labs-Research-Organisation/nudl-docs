@@ -788,7 +788,7 @@ Modify default channel where to post the notification. Nudl must be enabled ther
 
 Then **Send notification**:
 
-![image.png](image%2083.png)
+![Send the notification](nudl-guide-assets/send-address-notification.png)
 
 If you send a notification to a channel in which Nudl is not activated:
 
