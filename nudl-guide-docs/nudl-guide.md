@@ -217,7 +217,7 @@ Copy address  from [Safe.global](http://Safe.global) to enclude the network pref
 
 ![Copy Safe Address.png](nudl-guide-assets/Copy_Safe_Address.png)
 
-![image.png](nudl-guide-assets/image%2024.png)
+![image.png|33](nudl-guide-assets/image%2024.png)
 
 Add to modal and submit:
 
@@ -229,7 +229,7 @@ When setting up Nudl in your community, ensure to onboard as many users as possi
 
 To address all community members select a **Network**. Choose additional filters to refine:
 
-![image.png](nudl-guide-assets/image%2026.png)
+![Review available notification filters](nudl-guide-assets/notification-filters.png)
 
 Click **Next: choose send channel** to specify in which channel you want to address your community. Make sure Nudl is enabled there.
 
@@ -776,7 +776,7 @@ Use **/nudl-admin** to open the Nudl **Admin dashboard** and select **Notify mis
 
 Select a **Network (required)**, fine-tune further using channel and role filters :
 
-![image.png](image%2081.png)
+![Review available notification filters](nudl-guide-assets/notification-filters.png)
 
  
 
