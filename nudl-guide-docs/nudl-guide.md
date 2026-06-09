@@ -237,7 +237,7 @@ Click **Next: choose send channel** to specify in which channel you want to addr
 
 Then **Send notification**:
 
-![Nudl Notification.png](nudl-guide-assets/Nudl_Notification.png)
+![User facing missing address notification](nudl-guide-assets/address-notification.png)
 
 >✅ ***Congratulations:*** You have succcessfully set up Nudl! 🎉
 
@@ -800,11 +800,11 @@ If you send a notification to a channel to which a user has no access:
 
 You will receive a confirmation once successfully sent:
 
-![The notification was posted in your designated channel](nudl-guide-assets/notification-sent.png)
+![The notification was posted in the designated channel](nudl-guide-assets/notification-sent.png)
 
 Users can choose to use the dedicated **Add address button** or **/nudl** command:
 
-![Notification notice.png](Notification_notice.png)
+![User facing missing address notification](nudl-guide-assets/address-notification.png)
 
 Press the **Add token address** button to open the modal:
 
