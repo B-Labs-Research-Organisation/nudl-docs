@@ -800,7 +800,7 @@ If you send a notification to a channel to which a user has no access:
 
 You will receive a confirmation once successfully sent:
 
-![image.png](image%2086.png)
+![The notification was posted in your designated channel](nudl-guide-assets/notification-sent.png)
 
 Users can choose to use the dedicated **Add address button** or **/nudl** command:
 
