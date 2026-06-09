@@ -105,15 +105,15 @@ Press Enter to open your profile:
 
 To add your wallet address, select **Add / update**.  You can set individual addresses for each network or set the same address for all networks.
 
-![image.png](nudl-guide-assets/image%209.png)
+![](nudl-guide-assets/user-prep-address-add.png)
 
 To set an individual address per network **Select a network**. 
 
-![image.png](nudl-guide-assets/image%2010.png)
+![](nudl-guide-assets/user-set-address-network.png)
 
 Or select **Set same addresss on all networks**:
 
-![image.png](nudl-guide-assets/image%2011.png)
+![](nudl-guide-assets/user-add-address.png)
 
 
 
