@@ -123,11 +123,11 @@ Before you update individual or all networks, review options before confirming.
 
 When updating individual networks:
 
-![image.png](nudl-guide-assets/image%2012.png)
+![](nudl-guide-assets/user-update-address.png)
 
 When updating all networks choose between **override all set networks values** or add only to **networks without set values**:
 
-![image.png](nudl-guide-assets/image%2013.png)
+![](nudl-guide-assets/user-update-all-address.png)
     
 ### Remove Addresses
 
