@@ -190,7 +190,7 @@ Press **Enter** to open the Admin dashboard:
 
 Preset the tokens you customarily disburse to speed up the payment process. Tokens are added to each network. There is no limit of tokens you can add per network. Start by selecting a network and then press **Add token**:
 
-![image.png](nudl-guide-assets/image%2020.png)
+![Choose your network](nudl-guide-assets/add-or-remove-token.png)
 
 Add you token contract address into the modal and **Submit**.
 
@@ -837,7 +837,7 @@ Open the Admin dashboard using **/nudl-admin** and select **Manage tokens** or *
 
 Select a network:
 
-![image.png](image%2090.png)
+![Choose your network](nudl-guide-assets/add-or-remove-token.png)
 
 Choose Remove Token
 
