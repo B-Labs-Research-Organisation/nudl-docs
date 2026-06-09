@@ -792,7 +792,7 @@ Then **Send notification**:
 
 If you send a notification to a channel in which Nudl is not activated:
 
-![image.png](image%2084.png)
+![Prompt if Nudl is not active in a notified channel](nudl-guide-assets/nudl-not-active.png)
 
 If you send a notification to a channel to which a user has no access:
 
