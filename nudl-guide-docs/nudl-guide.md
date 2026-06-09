@@ -867,7 +867,7 @@ Select **Remove Safe**:
 
 **Select Safe to remove**:
 
-![image.png](nudl-guide-assets/image%2095.png)
+![Choose the Safe address to be removed](nudl-guide-assets/select-safe-to-remove.png)
 
 Confirm **Yes, remove**:
 
