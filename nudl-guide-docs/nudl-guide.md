@@ -835,13 +835,13 @@ Open the Admin dashboard using **/nudl-admin** and select **Manage tokens** or *
 
 #### Removing a token
 
-Select a network:
+**Select a network**:
 
 ![Choose your network](nudl-guide-assets/add-or-remove-token.png)
 
-Choose Remove Token
+Choose **Remove Token**:
 
-![image.png](image%2091.png)
+![Click Remove Token button](nudl-guide-assets/remove-token.png)
 
 Select the token to be removed:
 
