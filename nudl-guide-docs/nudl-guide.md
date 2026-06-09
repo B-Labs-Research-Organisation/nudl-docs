@@ -32,15 +32,15 @@ By default, Nudl is granted access to all channels, and all users have access to
 
 Server Settings → 
 
-![image.png](nudl-guide-assets/image%203.png)
+![](nudl-guide-assets/server-settings.png)
 
 Integrations → 
 
-![image.png](nudl-guide-assets/image%204.png)
+![](nudl-guide-assets/apps-integrations.png)
 
 Bots and Apps
 
-![image.png](nudl-guide-assets/image%205.png)
+![](nudl-guide-assets/bots-and-apps.png)
 
 Head to **Nudl** and press **Manage** to see the Command Permissions. Here, you can limit Nudl to particular “Channels” as well as “Roles & Members”. Default setting is All channels, All Members. In the “Commands” section you can open or limit access to Nudl commands to certain users or tags. See the Discord domumentation for further details how to use this feature.
 
