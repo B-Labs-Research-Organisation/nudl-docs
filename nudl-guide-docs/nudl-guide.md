@@ -871,7 +871,7 @@ Select **Remove Safe**:
 
 Confirm **Yes, remove**:
 
-![Remove Safe confirm.png](nudl-guide-assets/Remove_Safe_confirm.png)
+![Confirm to remove selected Safe](nudl-guide-assets/remove-safe-confirm.png)
 
 The removal is confirmed:
 
