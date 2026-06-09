@@ -830,7 +830,7 @@ We will review how to **remove** each here.
 
 Open the Admin dashboard using **/nudl-admin** and select **Manage tokens** or **Manage Safes**:
 
-![image.png](image%2089.png)
+![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
 
 
 #### Removing a token
