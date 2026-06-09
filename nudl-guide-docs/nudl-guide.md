@@ -849,11 +849,11 @@ Select the token to be removed:
 
 Confirm **Yes, Remove**:
 
-![image.png](image%2093.png)
+![Confirm removal of selected token](nudl-guide-assets/confirm-token-removal.png)
 
 The removal is confirmed:
 
-![image.png](image%2094.png)
+![Token removal confirmed](nudl-guide-assets/token-removal-success.png)
 
 
 >✅ ***Congratulations:*** You have succcessfully removed your token from Nudl!
