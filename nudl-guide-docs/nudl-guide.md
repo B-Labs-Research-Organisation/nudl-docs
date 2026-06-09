@@ -233,7 +233,7 @@ To address all community members select a **Network**. Choose additional filters
 
 Click **Next: choose send channel** to specify in which channel you want to address your community. Make sure Nudl is enabled there.
 
-![Setting a Network is required](nudl-guide-assets/notification-filter-set.png)
+![Choose where to send the notification](nudl-guide-assets/notification-filter-set.png)
 
 Then **Send notification**:
 
@@ -782,7 +782,7 @@ Select a **Network (required)**, fine-tune further using channel and role filter
 
 **Next: choose send channel**:
 
-![Setting a Network is required](nudl-guide-assets/notification-filter-set.png)
+![Choose where to send the notification](nudl-guide-assets/notification-filter-set.png)
 
 Modify default channel where to post the notification. Nudl must be enabled there!
 
