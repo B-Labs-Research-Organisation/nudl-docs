@@ -133,15 +133,15 @@ When updating all networks choose between **override all set networks values** o
 
 You have the option to remove individual or all addresses:
 
-![image.png](nudl-guide-assets/image%2014.png)
+![](nudl-guide-assets/user-prep-address-remove.png)
 
 To remove an address, select a network and then **Yes, remove**:
 
-![image.png](nudl-guide-assets/image%2015.png)
+![](nudl-guide-assets/user-remove-address.png)
 
 Or select **Remove all addresses** and then **Yes, remove all**:
 
-![image.png](nudl-guide-assets/image%2016.png)
+![](nudl-guide-assets/user-remove-addresses.png)
 
 ### View Profile
 
@@ -149,7 +149,7 @@ After setting your addresses, access your ****profile using **←Back** button o
 
 **Show full** to expand:
 
-![image.png](nudl-guide-assets/image%2017.png)
+![](nudl-guide-assets/overview-once-address-set.png)
 
 
 tutorial addresses
