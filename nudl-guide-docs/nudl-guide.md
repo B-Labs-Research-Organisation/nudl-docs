@@ -812,11 +812,11 @@ Press the **Add token address** button to open the modal:
 
 Anyone in the channel has button access. A user with an address already set is informed:
 
-![Notification - already added.png](Notification_-_already_added.png)
+![Notification if the entered address is already set](nudl-guide-assets/address-already-stored.png)
 
 Once saved you will receive your address overview:
 
-![image.png](image%2088.png)
+![Address overview of all your saved addresses](nudl-guide-assets/overview-once-address-set.png)
 
 
 
