@@ -58,17 +58,17 @@ Head to **Nudl** and press **Manage** to see the Command Permissions. Here, you 
 
 Head to the chosen channel → Edit channel (⚙️) → “Permissions” → “Add Members or roles”
 
-![grafik.png](nudl-guide-assets/grafik.png)
+![](nudl-guide-assets/private-channel.png)
 
 Select Nudl from the **Roles** listing and add:
 
-![image.png|86](nudl-guide-assets/image%206.png)
+![](nudl-guide-assets/nudl-bot-tag.png)
 
 *Set Nudl permissions:*
 
 Back on the Permissions  tab scroll down and open the “Advanced Permissions”. Select Nudl to the left and make sure the “View Channel” permission is activated: 
 
-![grafik.png](nudl-guide-assets/grafik%201.png)
+![](nudl-guide-assets/channel-permissions.png)
 
 
 
