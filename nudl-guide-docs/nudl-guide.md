@@ -449,19 +449,19 @@ Select a token and Safe address you have set up as described in the **Quickstart
 
 **Set Token**:
 
-![image.png](nudl-guide-assets/image%2048.png)
+![](nudl-guide-assets/safe-payout-set-token.png)
 
 **Set Safe Address**:
 
-![image.png](nudl-guide-assets/image%2049.png)
+![](nudl-guide-assets/safe-payout-set-safe.png)
 
 After setting you have the option to edit both addresses again:
 
-![Safe - Edit Addresses.png](nudl-guide-assets/Safe_-_Edit_Addresses.png)
+![](nudl-guide-assets/safe-payout-edit.png)
 
 Generate Safe Payout JSON file and download:
 
-![Safe - Payment file.png](nudl-guide-assets/Safe_-_Payment_file.png)
+![](nudl-guide-assets/safe-payout-file.png)
 
 ##### Step 2: Upload Nudl payout form to Safe
 
