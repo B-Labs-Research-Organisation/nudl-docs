@@ -437,11 +437,11 @@ Add an optional **Donation** amount to the transaction to support work at Nudl.
 
 Or  **Continue Safe setup**:
 
-![image.png](nudl-guide-assets/image%2045.png)
+![](nudl-guide-assets/safe-donation.png)
 
 Add any donation amount here, **Submit** and then **Continue Safe setup**:
 
-![image.png](nudl-guide-assets/image%2046.png)
+![](nudl-guide-assets/donation-modal.png)
 
 Select a token and Safe address you have set up as described in the **Quickstart** section. Alternatively, set a new token address or set/replace a Safe address:
 
@@ -525,7 +525,7 @@ Or  **Generate Disperse file**:
 
 Add any donation amount here:
 
-![image.png](nudl-guide-assets/image%2046.png)
+![](nudl-guide-assets/donation-modal.png)
 
 Generate Safe Payout CSV file and download:
 
@@ -627,7 +627,7 @@ Or **Select token**:
 
 Add any donation amount here and **Submit** then **Select token**:
 
-![image.png](nudl-guide-assets/image%2046.png)
+![](nudl-guide-assets/donation-modal.png)
 
 Select a token you have set up as described in the **Quickstart** section. Alternatively, set a new token address:
 
