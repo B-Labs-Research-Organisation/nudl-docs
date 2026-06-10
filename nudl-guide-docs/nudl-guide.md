@@ -467,25 +467,25 @@ Generate Safe Payout JSON file and download:
 
 Open your [SAFE](https://safe.global/) account and first verify that the address and network correspond with the selections made in **/admin_safe_payout**. After that, click on “New transaction” and then on “Transaction Builder”.
 
-![grafik.png](nudl-guide-assets/grafik%202.png)
+![](nudl-guide-assets/safe-dashboard.png)
 
  Alternatively, navigate to the “App” section and select “Transaction Builder”.
 
-![grafik.png](nudl-guide-assets/grafik%203.png)
+![](nudl-guide-assets/safe-app-search.png)
 
 Upload the JSON file downloaded in step 1 above by clicking on the “*choose a file*” button located in the bottom right corner:
 
-![grafik.png](nudl-guide-assets/grafik%204.png)
+![](nudl-guide-assets/safe-tx-builder.png)
 
 Press “*Create a Batch*“:
 
-![grafik.png](nudl-guide-assets/grafik%205.png)
+![](nudl-guide-assets/safe-tx-builder-batch.png)
 
 To review individual transactions, click on the pencil icon. If you are familiar with the process, you can make specific edits in the form, such as adjusting the values.
 
 To ensure everything is configured properly, simulate the transaction.
 
-![grafik.png](nudl-guide-assets/grafik%206.png)
+![](nudl-guide-assets/safe-tx-builder-simulate.png)
 
 If the simulation is successful begin the transaction by clicking "Send batch" and follow your usual multisig setup process.
 
