@@ -178,7 +178,7 @@ The Quickstart Guide runs you through the steps when setting up Nudl for the fir
 
 Type **/nudl-admin** into the Discord chat:
 
-![image.png](nudl-guide-assets/image%2018.png)
+![](nudl-guide-assets/nudl-admin-cmd.png)
 
  
 
