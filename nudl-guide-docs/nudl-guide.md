@@ -198,7 +198,7 @@ Add you token contract address into the modal and **Submit**.
 
 >ℹ️ ***Information:*** You can find token contract addresses in the project documentation or on sites such as [coingecko.com](http://coingecko.com) (DYOR!), see:
 
-![image.png](nudl-guide-assets/image%2022.png)
+![](nudl-guide-assets/find-contract.png)
 
 
 >🛠️ ***Work Tip:*** You can also add tokens while conducting a payment in the Safe and CSV Airdrop payment stream.
