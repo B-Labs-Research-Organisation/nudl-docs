@@ -431,7 +431,7 @@ Optionally select channel or role filter do best target the payout group. Press 
 
 Add payment values after the comma:
 
-![image.png](nudl-guide-assets/image%2044.png)
+![](nudl-guide-assets/set-user-amounts.png)
 
 Add an optional **Donation** amount to the transaction to support work at Nudl.
 
@@ -515,7 +515,7 @@ Optionally select channel or role filter do best target the payout group. Press 
 
 Add payment values after the comma:
 
-![image.png](nudl-guide-assets/image%2044.png)
+![](nudl-guide-assets/set-user-amounts.png)
 
 Add an optional **Donation** amount to the transaction to support work at Nudl.
 
@@ -617,7 +617,7 @@ Optionally select channel or role filter do best target the payout group. Press 
 
 Add payment values after the comma, then **Submit**:
 
-![image.png](nudl-guide-assets/image%2063.png)
+![](nudl-guide-assets/set-user-amounts.png)
 
 Add an optional **Donation** amount to the transaction to support work at Nudl.
         
@@ -707,7 +707,7 @@ Optionally select channel or role filter do best target the payout group. Press 
 
 Add payment **values** and/or **points** after the comma, then **Submit**:
 
-![image.png](nudl-guide-assets/image%2075.png)
+![](nudl-guide-assets/set-user-amounts-points.png)
 
 **Generate Nudl Web CSV**:
 
