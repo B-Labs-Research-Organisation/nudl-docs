@@ -211,17 +211,17 @@ Preset your payment Safe address. Nudl currently only supports one Safe per netw
 
 Start by selecting a network and then press **Add Safe**:
 
-![image.png](nudl-guide-assets/image%2023.png)
+![](nudl-guide-assets/open-manage-safe.png)
 
 Copy address  from [Safe.global](http://Safe.global) to enclude the network prefix:
 
-![Copy Safe Address.png](nudl-guide-assets/Copy_Safe_Address.png)
+![](nudl-guide-assets/Copy_Safe_Address.png)
 
 ![image.png|33](nudl-guide-assets/image%2024.png)
 
 Add to modal and submit:
 
-![image.png](nudl-guide-assets/image%2025.png)
+![](nudl-guide-assets/set-safe-address.png)
 
 #### Notify Users
 
