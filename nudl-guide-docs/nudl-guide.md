@@ -423,11 +423,11 @@ Select **Safe**:
 
 Select a network:
 
-![image.png](nudl-guide-assets/image%2042.png)
+![](nudl-guide-assets/safe-payout-network-set.png)
 
 Optionally select channel or role filter do best target the payout group. Press **Set amounts**:
 
-![image.png](nudl-guide-assets/image%2043.png)
+![](nudl-guide-assets/safe-payout-recipient-filter.png)
 
 Add payment values after the comma:
 
