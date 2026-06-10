@@ -215,9 +215,8 @@ Start by selecting a network and then press **Add Safe**:
 
 Copy address  from [Safe.global](http://Safe.global) to enclude the network prefix:
 
-![](nudl-guide-assets/Copy_Safe_Address.png)
+![Click the highlighted symbol in Safe to copy](nudl-guide-assets/Copy_Safe_Address.png)
 
-![image.png|33](nudl-guide-assets/image%2024.png)
 
 Add to modal and submit:
 
@@ -358,14 +357,14 @@ To modify your payment file select **Edit CSV**.  This will bring you back to th
 
 >🛠️ ***Work Tip:*** In case you need to restart the disbursement process because you selected the incorrect network, you do not need to add all user values afresh:
 
-- Open **Edit CSV** of your old disbursement form, copy all users and their values
-- Restart a new disbursement path with the correct network
+- Open **Edit CSV** of your old disbursement form, copy all users and their values.
+- Restart the disbursement path afresh using the updated network.
  - Once you added a network you will see the following options:
 
-![image.png](nudl-guide-assets/image%2036.png)
+![](nudl-guide-assets/disbursement-cmd-options.png)
 
 - Select **Manual paste** which will open the user modal.
-- Past the users and values you copied earlier and proceed as usual.
+- Past the users and values you copied earlier and proceed as before.
    
 #### Remove a token
 
