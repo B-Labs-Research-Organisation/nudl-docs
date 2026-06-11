@@ -15,11 +15,11 @@ What to look out for when installing Nudl on your system!
 
 To install on your server, click on the installation link (available, soon):
 
-![](nudl-guide-assets/nuld-installation-prompt.png)
+![](nudl-guide-assets/discord-installation-prompt.png)
 
 Then grant permission:
 
-![](nudl-guide-assets/nudl-grant-permissions.png)
+![](nudl-guide-assets/discord-grant-permissions.png)
 
 Nudl is installed:
 
