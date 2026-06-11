@@ -539,27 +539,27 @@ Open [Disperse](https://disperse.app/) and login with your wallet of choice. Set
 
 Select the network on Disperse:
 
-![image.png](nudl-guide-assets/image%2053.png)
+![](nudl-guide-assets/disperse-network-set.png)
 
 Select between ETH or token disbursement. If you choose a token add the token contract address. For more information where to find these see our Quickstart section. Then **load**:
 
-![image.png](nudl-guide-assets/image%2054.png)
+![](nudl-guide-assets/disperse-token-set.png)
 
 Open the Nudl file and **copy** the data which can include the headings.
 
-![image.png](nudl-guide-assets/image%2055.png)
+![](nudl-guide-assets/disperse-copy-csv-data.png)
 
 **Paste** into the “recipients and amounts” field:
 
-![image.png](nudl-guide-assets/image%2056.png)
+![](nudl-guide-assets/disperse-set-recipients.png)
 
 For confirmation the exact payment amounts, total and the wallet balance holding are calculated instantly:
 
-![Disperse - Payment grid.png](nudl-guide-assets/Disperse_-_Payment_grid.png)
+![](nudl-guide-assets/disperse-confirm-values.png)
 
 Approve token and disburse:
 
-![grafik.png](nudl-guide-assets/grafik%207.png)
+![](nudl-guide-assets/disperse-conclude.png)
 
 
 >✅***Congratulations:*** You have succcessfully concluded your Disperse transaction!
