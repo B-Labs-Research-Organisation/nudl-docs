@@ -215,7 +215,7 @@ Start by selecting a network and then press **Add Safe**:
 
 Copy address  from [Safe.global](http://Safe.global) to enclude the network prefix:
 
-![Click the highlighted symbol in Safe to copy](nudl-guide-assets/Copy_Safe_Address.png)
+![](nudl-guide-assets/copy_safe_address.png)
 
 
 Add to modal and submit:
