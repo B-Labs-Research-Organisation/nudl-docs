@@ -609,11 +609,11 @@ Select **CSV Airdrop**:
 
 **Select a network**:
 
-![image.png](nudl-guide-assets/image%2061.png)
+![](nudl-guide-assets/csv-airdrop-payout-network-set.png)
 
 Optionally select channel or role filter do best target the payout group. Press **Set amounts**:
         
-![image.png](nudl-guide-assets/image%2062.png)
+![](nudl-guide-assets/csv-airdrop-payout-recipient-filter.png)
 
 Add payment values after the comma, then **Submit**:
 
@@ -623,7 +623,7 @@ Add an optional **Donation** amount to the transaction to support work at Nudl.
         
 Or **Select token**:
 
-![image.png](nudl-guide-assets/image%2064.png)
+![](nudl-guide-assets/csv-airdrop-donation-set.png)
 
 Add any donation amount here and **Submit** then **Select token**:
 
@@ -635,11 +635,11 @@ Select a token you have set up as described in the **Quickstart** section. Alter
 
 **Generate CSV Airdrop file**:
 
-![image.png](nudl-guide-assets/image%2066.png)
+![](nudl-guide-assets/csv-airdrop-generate.png)
 
 **Generate CSV Airdrop file** and download:
 
-![CSV Airdrop - Disbursement file.png](nudl-guide-assets/CSV_Airdrop_-_Disbursement_file.png)
+![](nudl-guide-assets/csv-airdrop-payout-file.png)
 
 ##### Step 2: Upload Nudl payout form to CSV Airdrop in Safe
 
