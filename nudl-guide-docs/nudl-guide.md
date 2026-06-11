@@ -736,13 +736,13 @@ Click the **Address directory** button on the Admin dashboard:
 
 The Nudl provides you with different options:
 
-![image.png](nudl-guide-assets/image%2077.png)
+![](nudl-guide-assets/address-directory.png)
 
 #### Browse directory
 
 Select Browse directory, then set the desired filters. Choose amongst Network (mandatory), Role and Channel:
 
-![image.png](nudl-guide-assets/image%2078.png)
+![](nudl-guide-assets/address-directory-browse.png)
 
 This will list the respective wallet holders and their corresponding addresses. You have the option to export your search results as CSV file.
 
@@ -754,13 +754,13 @@ This will list the respective wallet holders and their corresponding addresses. 
 
 To clarify whether an address is associated with a user, select **Lookup by address**, add the address to the modal and **Search**:
 
-![image.png](nudl-guide-assets/image%2079.png)
+![](nudl-guide-assets/address-directory-address.png)
 
 #### Lookup by username
 
 To clarify which address is associated with a particular user, select **Lookup by username**:
 
-![image.png](nudl-guide-assets/image%2080.png)
+![](nudl-guide-assets/address-directory-user.png)
 
 This will list the respective wallet holder and their corresponding addresses. You have the option to export your search results as CSV file.
 
