@@ -900,7 +900,7 @@ The donation wallet address is: 0x18f89f1cd153644e3ef6e70894c0673f7feb46e9
 
 ## Nudl Editing and formatting
 
-## Truncated Discord IDs
+### Truncated Discord IDs
 
   
 >🛠️ ***Work Tip:*** Generating the CSV file often truncates (shorten) the Discord IDs. To prevent this, consider uploading your CSV file to Google Sheets. For guidance, visit: [How to Open a CSV File in Google Sheets - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-open-a-csv-file-in-google-sheets/).
@@ -914,7 +914,7 @@ If you use LibreOffice or Excel instead, following these steps:
 
 ![How to modify the CSV Text Import](nudl-guide-assets/truncated-user-id.png)
 
-## Error messages
+### Error messages
 
    
 >ℹ️ ***Information:** Nudl* can only process users who have registered their wallet addresses in Nudl. If Nudl is unable to locate a user due to misspellings, non-existence, or the absence of a submitted wallet address, an alert ⚠️ will be triggered. The total transfer amount displayed serves as an additional verification tool for you to cross-check against your original disbursement calculations.
@@ -923,7 +923,7 @@ If you use LibreOffice or Excel instead, following these steps:
 
 ![Highlights issues found during processing by Nudl](nudl-guide-assets/address-error-message.png)
 
-## Formatting
+### Formatting
 
 
 >ℹ️ ***Information:*** Nudl is format sensitive. If you enter the data into the Payout modal without the preset “,“, Nudl will not be able to read the data entry and you will receive an error message:
@@ -931,7 +931,7 @@ If you use LibreOffice or Excel instead, following these steps:
 
 ![Indicates incorrrect formatting upon entry](nudl-guide-assets/formatting-error-message.png)
 
-## Glossary of Terms
+### Glossary of Terms
 
 We use the following terms interchangeably in the docs.  
 
