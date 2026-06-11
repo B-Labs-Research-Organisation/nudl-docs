@@ -145,7 +145,7 @@ Or select **Remove all addresses** and then **Yes, remove all**:
 
 ### View Profile
 
-After setting your addresses, access your ****profile using **←Back** button or **/nudl** command.
+After setting your addresses, access your profile using **←Back** button or **/nudl** command.
 
 **Show full** to expand:
 
