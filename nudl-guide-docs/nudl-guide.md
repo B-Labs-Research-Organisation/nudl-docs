@@ -647,38 +647,38 @@ Open your [SAFE](https://safe.global/) account and first verify that the address
 
 Search for CSV Ardrop under App section.
 
-![image.png](nudl-guide-assets/image%2067.png)
+![](nudl-guide-assets/csv-airdrop-app-search.png)
 
 Select:
 
-![image.png](nudl-guide-assets/image%2068.png)
+![](nudl-guide-assets/csv-airdrop-app-select.png)
 
 Confirm:
 
-![image.png](nudl-guide-assets/image%2069.png)
+![](nudl-guide-assets/csv-airdrop-app-confirm.png)
 
 Upload the Nudl disbursement file downloaded above:
 
-![image.png](nudl-guide-assets/image%2070.png)
+![](nudl-guide-assets/csv-airdrop-dashboard.png)
 
 Upload the Nudl CSV file:
 
-![CSV - Paste Values.png](nudl-guide-assets/CSV_-_Paste_Values.png)
+![](nudl-guide-assets/csv-airdrop-file-upload.png)
 
 
->📌 ***Note:*** To speed things up you can expand the file field in Nudl (or open the downloaded Nudl file) **copy** the data **including** the headings, and **paste** into the CSV Aridrop data field:
+>📌 ***Note:*** To speed things up you can expand the file field in Nudl (or open the downloaded Nudl file) **copy** the data **including** the headings, and **paste** into the CSV Airdrop data field:
 
 
-![CSV Airdrop File.png](nudl-guide-assets/CSV_Airdrop_File.png)
+![](nudl-guide-assets/csv-airdrop-copy.png)
 
 
 Review all entries, check amounts and total in **Summary** then **Submit**:
 
-![image.png](nudl-guide-assets/image%2071.png)
+![](nudl-guide-assets/csv-airdrop-confirm-values.png)
 
 Start the Safe Multisig transaction:
 
-![CSV Airdrop - Safe Upload.png](nudl-guide-assets/CSV_Airdrop_-_Safe_Upload.png)
+![](nudl-guide-assets/csv-airdrop-safe-tx.png)
 
 
 >✅ ***Congratulations:*** You have succcessfully started your CSV Airdrop transaction!
