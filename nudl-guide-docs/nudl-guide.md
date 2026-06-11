@@ -96,7 +96,7 @@ To open your profile type **/nudl** in the Discord chat.
 
 ![](nudl-guide-assets/nudl-user-cmd.png)
 
-Press Enter to open your profile:
+Press Enter to open user profile for full overview over your set addresses:
 
 ![](nudl-guide-assets/nudl-address-overview.png)
 
@@ -115,7 +115,9 @@ Or select **Set same addresss on all networks**:
 
 ![](nudl-guide-assets/user-add-address.png)
 
+Upon submitting see full user address overview:
 
+![](nudl-guide-assets/overview-once-address-set.png)
 
 ### Update Addresses
 
@@ -143,13 +145,6 @@ Or select **Remove all addresses** and then **Yes, remove all**:
 
 ![](nudl-guide-assets/user-remove-addresses.png)
 
-### View Profile
-
-After setting your addresses, access your profile using **←Back** button or **/nudl** command.
-
-**Show full** to expand:
-
-![](nudl-guide-assets/overview-once-address-set.png)
 
 
 tutorial addresses
