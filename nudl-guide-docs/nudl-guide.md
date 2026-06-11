@@ -507,11 +507,11 @@ Select **Disperse**:
 
 **Select a network**:
 
-![image.png](nudl-guide-assets/image%2050.png)
+![](nudl-guide-assets/disperse-payout-network-set.png)
 
 Optionally select channel or role filter do best target the payout group. Press S**et amounts**:
 
-![image.png](nudl-guide-assets/image%2051.png)
+![](nudl-guide-assets/disperse-payout-recipient-filter.png)
 
 Add payment values after the comma:
 
@@ -521,7 +521,7 @@ Add an optional **Donation** amount to the transaction to support work at Nudl.
 
 Or  **Generate Disperse file**:
 
-![image.png](nudl-guide-assets/image%2052.png)
+![](nudl-guide-assets/disperse-donation.png)
 
 Add any donation amount here:
 
@@ -529,7 +529,7 @@ Add any donation amount here:
 
 Generate Safe Payout CSV file and download:
 
-![Disperse - Payment file.png](nudl-guide-assets/Disperse_-_Payment_file.png)
+![](nudl-guide-assets/disperse-payout-file.png)
 
 ##### Step 2: Upload Nudl payout form to Disperse and Smold.app
 
