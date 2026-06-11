@@ -569,23 +569,23 @@ Approve token and disburse:
 
 To begin, choose Disperse at [Smol](https://smold.app/disperse), select the Disperse tab and log in with your preferred wallet.
 
-![grafik.png](nudl-guide-assets/grafik%208.png)
+![](nudl-guide-assets/smold-dashboard.png)
 
 Select your token address. The Smol app allows you to search by token address or you can add one from a third party source. More information on token addresses see Quickstart :
 
-![image.png](nudl-guide-assets/image%2057.png)
+![](nudl-guide-assets/smold-token-set.png)
 
 Upload the CSV file we downloaded from Nudl using **Import Configuration**:
 
-![image.png](nudl-guide-assets/image%2058.png)
+![](nudl-guide-assets/smold-csv-upload.png)
 
 Check the upload details:
 
-![image.png](nudl-guide-assets/image%2059.png)
+![](nudl-guide-assets/smold-confirm-values.png)
 
 Check the total amount, approve and execute the payout:
 
-![image.png](nudl-guide-assets/image%2060.png)
+![](nudl-guide-assets/smold-conclude.png)
 
 
 >✅***Congratulations:*** You have succcessfully concluded your Smold.app transaction!
