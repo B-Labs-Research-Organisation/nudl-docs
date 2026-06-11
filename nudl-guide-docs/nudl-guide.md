@@ -699,11 +699,11 @@ Select **Nudl Web:**
 
 **Select a network**:
 
-![image.png](nudl-guide-assets/image%2073.png)
+![](nudl-guide-assets/nudl-web-payout-network-set.png)
 
 Optionally select channel or role filter do best target the payout group. Press **Set amounts**:
 
-![image.png](nudl-guide-assets/image%2074.png)
+![](nudl-guide-assets/nudl-web-payout-recipient-filter.png)
 
 Add payment **values** and/or **points** after the comma, then **Submit**:
 
@@ -711,11 +711,11 @@ Add payment **values** and/or **points** after the comma, then **Submit**:
 
 **Generate Nudl Web CSV**:
 
-![image.png](nudl-guide-assets/image%2076.png)
+![](nudl-guide-assets/nudl-web-generate.png)
 
 Download the CSV file/connect to Nudl web:
 
-![Nudl_Web - Create file.png](nudl-guide-assets/Nudl_Web_-_Create_file.png)
+![](nudl-guide-assets/nudl-web-payout-file.png)
         
 ##### Step 2: Upload Nudl disbursement to Nudl site
 
