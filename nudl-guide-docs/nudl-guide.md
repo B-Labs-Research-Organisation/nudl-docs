@@ -15,7 +15,7 @@ It is easily adapts to your workflow:
 * a selection of payment paths and download options are provided
 
 
-## 🔍 Installing Nudl on Discord ✅
+## 🔍 Installing Nudl on Discord
 
 
 What to look out for when installing Nudl on your system!
@@ -86,7 +86,7 @@ Back on the Permissions  tab scroll down and open the “Advanced Permissions”
 
 ## 👥 User Sections
 
-### What you need to know as a  User ✅
+### What you need to know as a  User
 
 Nudl is easy and safe to use. A user can access and manage their profile using a single command and retain full control over their data. An Admin cannot add, modify or remove user data. In particular, a user can:
 
@@ -165,7 +165,7 @@ tutorial addresses
 
 ## ⚙️ Admin Sections
 
-### Quickstart ✅
+### Quickstart
 
 The Quickstart Guide runs you through the steps when setting up Nudl for the first time, inplementing its core functions.
 
@@ -246,7 +246,7 @@ Then **Send notification**:
 
 
 
-### Admin Introduction ✅
+### Admin Introduction
 
 At Nudl, access to **admin command lines** is restricted to **Discord administrators**. 
 
@@ -268,7 +268,7 @@ You have the option to support the work at Nudl.
 The donation wallet address set in the system is: **0x18f89f1cd153644e3ef6e70894c0673f7feb46e9**
 
 
-### Nudl Administration ✅
+### Nudl Administration
 
 #### Adding a token during disbursement
 
@@ -728,7 +728,7 @@ Download the CSV file/connect to Nudl web:
 >✅ ***Success:*** You have succcessfully concluded your Nudl Web transaction!
 
 
-### Address Directory ✅
+### Address Directory
 
 Nudl admins can manage payment flows by accessing different filtering options. It also helps discover duplcate addresses.
 
@@ -769,7 +769,7 @@ To clarify which address is associated with a particular user, select **Lookup b
 This will list the respective wallet holder and their corresponding addresses. You have the option to export your search results as CSV file.
 
 
-### Nofity missing addresses ✅
+### Nofity missing addresses
 
 Nudl features a notification tool to inform users fo your community to add their wallet address to the system. You can use this for general onboarding or when you are about to prepare a disbursement.
 
@@ -823,7 +823,7 @@ Once saved you will receive your address overview:
 
 
 
-### Manage tokens and Safes - removal ✅
+### Manage tokens and Safes - removal
 
 #### Introduction
 
