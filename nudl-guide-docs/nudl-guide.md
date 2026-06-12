@@ -204,6 +204,8 @@ Add you token contract address into the modal and **Submit**.
 >🛠️ ***Work Tip:*** You are flexible when to add a token. You can also add tokens while preparing a payment within the Safe and CSV Airdrop streams.
 
 
+>ℹ️ ***Information:*** Nudl supports token disbursements based on token addresses. Native gas tokens such as ETH on the Ethereum Mainnet do not possess a token contract and are currently **not** supported.
+
 
 #### Manage Safes
 
@@ -253,24 +255,28 @@ Once set **Send notification**:
 
 ### Admin Introduction
 
-At Nudl, access to **admin command lines** is restricted to **Discord administrators**. 
+At Nudl, using **admin command lines** are restricted to **Discord administrators**. 
 
 What a Nudl Admin can do:
 
 - Create and execute disbursements
-- Identify and notify users who have not set their address on Nudl
+- Download files including among other Discord user identifiers, wallet addresses and values/points
 - Access and browse the address directory using different filter settings
+- Identify and notify users who have not set their address on Nudl
 - Manage token and Safe addresses
 
 What a Nudl Admin cannot do:
 
-- Admins are not able to add, modify, or delete wallets users have set in Nudl.
+- Admins are not able to add, modify, or delete wallets users have set within Nudl.
 
->ℹ️ ***Information:*** Nudl supports token transfers based on token addresses. Native gas tokens such as ETH on the Ethereum Mainnet or SOL on Solana do not possess a token contract and are currently **not** supported.
 
->💡 ***Donations:***  
-You have the option to support the work at Nudl.
-The donation wallet address set in the system is: **0x18f89f1cd153644e3ef6e70894c0673f7feb46e9**
+>📌 **Note:** While admins cannot modify any data within Nudl, they can download modifiable JSON and CSV files or modify the date in the respective payment platforms themselves.
+>
+>The downloadable files containing the following user data, depending on file type:
+>Discord display name, unique name, user ID
+>Wallet address
+>Chain name and chain ID
+>Disbursement value and /or points
 
 
 ### Nudl Administration
@@ -901,13 +907,11 @@ The donation wallet address is: 0x18f89f1cd153644e3ef6e70894c0673f7feb46e9
 >📌 **Note:** You can also manually add this data using Discord display or unique names, which may be quicker for smaller groups. Enter one line per entry. Please note that there is a 4000 character limit, which accommodates approximately 100 users if you use Discord ID codes.
 
   
-### Nudl Flow Visualisation
+### Donations 🤍
 
-#### **SAFE**
+Nudl is free to use. If you find it speeds up your payment processing, consider supporting our work 🤍. For convenience we have integrated a donation option into the payment flow.
+The donation wallet address set in the system is: **0x18f89f1cd153644e3ef6e70894c0673f7feb46e9**
 
-#### **Disperse / Smold**
-
-#### **Nudl Web**
 
 
 # 📚 Glossary & References
