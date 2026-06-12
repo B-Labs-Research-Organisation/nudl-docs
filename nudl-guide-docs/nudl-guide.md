@@ -233,17 +233,17 @@ Paste the copied prefix & address to the modal and submit:
 
 #### Notify Users
 
-When setting up Nudl in your community, ensure to onboard as many users as possible. Make an announcement and use Nudl’s built-in **notification tool** by pressing the **Notify missing addresses** button on Admin dashboard.
+To assist with the onboarding of your community an announcement using Nudl’s built-in **notification tool** by pressing the **Notify missing addresses** button on Admin dashboard.
 
-To address all community members select a **Network**. Choose additional filters to refine:
+Selecting the network on which you conduct payments. Choose additional filters to refine:
 
 ![Review available notification filters](nudl-guide-assets/notification-filters.png)
 
-Click **Next: choose send channel** to specify in which channel you want to address your community. Make sure Nudl is enabled there.
+Click **Next: choose send channel** to specify in which channel you want to address your community. By default it is the channel in which you currently are, but you can choose another channel, as long as Nudl is enabled there and the notified users have access to it.
 
 ![Choose where to send the notification](nudl-guide-assets/notification-filter-set.png)
 
-Then **Send notification**:
+Once set **Send notification**:
 
 ![User facing missing address notification](nudl-guide-assets/address-notification.png)
 
