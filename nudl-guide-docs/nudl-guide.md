@@ -176,7 +176,7 @@ The Quickstart Guide runs you through the steps when setting up Nudl for the fir
 
 #### Admin Dashboard
 
-Type **/nudl-admin** into the Discord chat:
+Type **/nudl-admin** in the Discord chat command:
 
 ![](nudl-guide-assets/nudl-admin-cmd.png)
 
@@ -188,7 +188,7 @@ Press **Enter** to open the Admin dashboard:
 
 #### Manage tokens
 
-Preset the tokens you customarily disburse to speed up the payment process. Tokens are added to each network. There is no limit of tokens you can add per network. Start by selecting a network and then press **Add token**:
+Set token addresses which you expect to pay your community with. Tokens are set per network. There is no limit of tokens you can add per network. Start by selecting a network and then press **Add token**:
 
 ![Choose your network](nudl-guide-assets/add-or-remove-token.png)
 
@@ -196,31 +196,41 @@ Add you token contract address into the modal and **Submit**.
 
 ![Add token contract and Submit](nudl-guide-assets/add-token-contract.png)
 
->ℹ️ ***Information:*** You can find token contract addresses in the project documentation or on sites such as [coingecko.com](http://coingecko.com) (DYOR!), see:
+>ℹ️ ***Information:*** You can find token contract addresses in the project documentation or on sites such as [coingecko.com](http://coingecko.com) (DYOR!), see e.g.: 
+>
+>![](nudl-guide-assets/find-contract.png)
 
-![](nudl-guide-assets/find-contract.png)
 
-
->🛠️ ***Work Tip:*** You can also add tokens while conducting a payment in the Safe and CSV Airdrop payment stream.
+>🛠️ ***Work Tip:*** You are flexible when to add a token. You can also add tokens while preparing a payment within the Safe and CSV Airdrop streams.
 
 
 
 #### Manage Safes
 
-Preset your payment Safe address. Nudl currently only supports one Safe per network.
+Set Safe addresses from which you expect to pay your community. Safe addresses are set per network. Nudl currently only supports one Safe per network.
 
-Start by selecting a network and then press **Add Safe**:
+Start by pressing **Add Safe** :
 
 ![](nudl-guide-assets/open-manage-safe.png)
 
-Copy address  from [Safe.global](http://Safe.global) to enclude the network prefix:
+Copy address  from [Safe.global](http://Safe.global) and make sure it includes the **network prefix**. A prefix would be  **basesep** for Base Sepolia Testnet in the example shown below and is automatically part of the wallet address you copy it from your the Safe wallet. Look for this section:
 
 ![](nudl-guide-assets/copy_safe_address.png)
 
 
-Add to modal and submit:
+Paste the copied prefix + address to the modal and submit:
 
 ![](nudl-guide-assets/set-safe-address.png)
+
+
+>📌 **Note:** The prefix is essential as it specifies the network to which the Safe address is associated. Nudl does not require you to specify a network in order to set a Safe address as the prefix associates it automatically. These are the common prefixes used:
+>
+>ETH Mainnet: 
+>Optimism: 
+>BASE Mainnet: 
+>Polygon: 
+>Arbitrum: 
+>Base Sepolia Testnet: 
 
 #### Notify Users
 
