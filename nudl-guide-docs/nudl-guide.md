@@ -772,7 +772,7 @@ To clarify which address is associated with a particular user, select **Lookup b
 This will list the respective wallet holder and their corresponding addresses. You have the option to export your search results as CSV file.
 
 
-### Nofity missing addresses
+### Notify missing addresses
 
 Nudl features a notification tool to inform users fo your community to add their wallet address to the system. You can use this for general onboarding or when you are about to prepare a disbursement.
 
