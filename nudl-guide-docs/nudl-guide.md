@@ -88,7 +88,7 @@ Back on the Permissions  tab scroll down and open the “Advanced Permissions”
 
 ### What you need to know as a  User
 
-Nudl is easy and safe to use. A user can access and manage their profile using a single command and retain full control over their data. An Admin cannot add, modify or remove user data. In particular, a user can:
+Users can access and manage their profile by typing **/nudl** in the Discord chat. Users retain full control over their data, but are also responsible for keeping it up-to-date, as an Admin cannot add, modify or remove user data. In particular, a user can:
 
 - Add addresses
 - Update addresses
@@ -96,7 +96,7 @@ Nudl is easy and safe to use. A user can access and manage their profile using a
 - View profile
 
 
->📌 ***Note:*** Admins cannot add, modify or remove addresses a user sets in Nudl, but they can process, filter and download them into a file to manage them on or offline, among other to process payments or for accounting purposes.
+>📌 ***Note:*** While Admins cannot add, modify or remove addresses a user sets in Nudl, they can process, filter and download them into a file to manage them on or offline, among other to process payments or for accounting purposes.
 
 
 ### Getting started
