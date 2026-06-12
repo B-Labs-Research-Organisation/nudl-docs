@@ -279,7 +279,7 @@ What a Nudl Admin cannot do:
 >Disbursement value and /or points
 
 
-### Nudl Administration
+### Admin Basics
 
 #### Adding a token during disbursement
 
@@ -838,16 +838,16 @@ Once saved you will receive your address overview:
 
 #### Introduction
 
-How to add tokens and safes is discussed in **Quickstart** section.
+How to add tokens and safes is addressed in **Quickstart** and **Adding a token during disbursement** section.
 
-We will review how to **remove** each here.
+How to **remove** either is addressed in the following.
 
-Start either process by opening the Admin dashboard using **/nudl-admin** and select **Manage tokens** or **Manage Safes**:
+Start either process by opening the Admin dashboard using **/nudl-admin** and select **Manage tokens** or **Manage Safes**, respectively:
 
 ![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
 
 
-#### Removing a token
+#### Remove a token
 
 **Select a network**:
 
@@ -873,7 +873,7 @@ The removal is confirmed:
 >✅ ***Congratulations:*** You have succcessfully removed your token from Nudl!
 
   
-#### Removing a Safe
+#### Remove a Safe
 
 Select **Remove Safe**:
 
