@@ -9,7 +9,7 @@ It is easy to access:
 It is easy to use:
 * all dashboard options are designed to be self-explanatory
 * buttons and dropdowns speed up the flow
-* customisable
+* payment settings are customisable
 
 It is easily adapts to your workflow:
 * a selection of payment paths and download options are provided
@@ -101,56 +101,59 @@ Users can access and manage their profile by typing **/nudl** in the Discord cha
 
 ### Getting started
 
-To open your profile type **/nudl** in the Discord chat.
+To open your profile type **/nudl** in the Discord chat and enter.
 
 ![](nudl-guide-assets/nudl-user-cmd.png)
 
-Press Enter to open user profile for full overview over your set addresses:
+The user profile provides an overview to add, update or remove an addresses:
 
 ![](nudl-guide-assets/nudl-address-overview.png)
 
 
 ### Add Addresses
 
-To add your wallet address, select **Add / update**.  You can set individual addresses for each network or set the same address for all networks.
+To add a users wallet address, select **Add / update**.  Set address individually per network using **Select a network** or **Set same addresss on all networks**:
 
 ![](nudl-guide-assets/user-prep-address-add.png)
 
-To set an individual address per network **Select a network**. 
+Select a network:
 
 ![](nudl-guide-assets/user-set-address-network.png)
 
-Or select **Set same addresss on all networks**:
+Add wallet address:
 
 ![](nudl-guide-assets/user-add-address.png)
 
-Upon submitting see full user address overview:
+Upon submitting see overview of all set user addresses:
 
 ![](nudl-guide-assets/overview-once-address-set.png)
 
 ### Update Addresses
 
-Before you update individual or all networks, review options before confirming.
+Instead of adding an address you can easily replace an address you have set for a network previously. Proceed as you do when setting an address:
 
-When updating individual networks:
+![](nudl-guide-assets/user-prep-address-add.png)
+
+
+When updating addresses for individual networks you receive this prompt:
 
 ![](nudl-guide-assets/user-update-address.png)
 
-When updating all networks choose between **override all set networks values** or add only to **networks without set values**:
+When updating addresses for all networks you receive this prompt and can choose between **override all set networks values** or add only to **networks without set values**:
 
 ![](nudl-guide-assets/user-update-all-address.png)
     
 ### Remove Addresses
 
-You have the option to remove individual or all addresses:
+Select **Remove** which opens the option to removel addresses:
 
 ![](nudl-guide-assets/user-prep-address-remove.png)
 
-To remove an address, select a network and then **Yes, remove**:
+To remove an individual address, choose **Select network** and then **Yes, remove**:
 
 ![](nudl-guide-assets/user-remove-address.png)
 
-Or select **Remove all addresses** and then **Yes, remove all**:
+To remove all addresses from all networks, choose **Remove all addresses** and then **Yes, remove all**:
 
 ![](nudl-guide-assets/user-remove-addresses.png)
 
