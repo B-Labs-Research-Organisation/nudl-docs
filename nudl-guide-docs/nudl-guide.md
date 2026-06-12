@@ -223,14 +223,13 @@ Paste the copied prefix + address to the modal and submit:
 ![](nudl-guide-assets/set-safe-address.png)
 
 
->📌 **Note:** The prefix is essential as it specifies the network to which the Safe address is associated. Nudl does not require you to specify a network in order to set a Safe address as the prefix associates it automatically. These are the common prefixes used:
->
->ETH Mainnet: 
->Optimism: 
->BASE Mainnet: 
->Polygon: 
->Arbitrum: 
->Base Sepolia Testnet: 
+>📌 **Note:** The prefix specifies the network to which the Safe address is associated in Nudl. These are the common prefixes used:
+>ETH Mainnet: eth
+>Polygon Mainnet: matic
+>Arbitrum One: abr1
+>Optimism: oeth
+>BASE Mainnet: base
+>Base Sepolia Testnet: basespe
 
 #### Notify Users
 
