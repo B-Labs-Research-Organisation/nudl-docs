@@ -172,10 +172,7 @@ tutorial addresses
 
 The Quickstart Guide runs you through the steps when setting up Nudl for the first time after initial installation, implementing its core functions.
 
-#### Admin permissions
-
-
->📌 **Note:** You need to be a Discord server admin to run Nudl admin commands.
+>📌 **Note:** You need to be a Discord server admin to access the **/nudl-admin** commands.
 
 #### Admin Dashboard
 
