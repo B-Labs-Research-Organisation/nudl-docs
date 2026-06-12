@@ -213,12 +213,12 @@ Start by pressing **Add Safe** :
 
 ![](nudl-guide-assets/open-manage-safe.png)
 
-Copy address  from [Safe.global](http://Safe.global) and make sure it includes the **network prefix**. A prefix would be  **basesep** for Base Sepolia Testnet in the example shown below and is automatically part of the wallet address you copy it from your the Safe wallet. Look for this section:
+Copy address  from [Safe.global](http://Safe.global) as it automatically includes the relevant prefix as part of the wallet address you copy, see as an example:
 
 ![](nudl-guide-assets/copy_safe_address.png)
 
 
-Paste the copied prefix + address to the modal and submit:
+Paste the copied prefix & address to the modal and submit:
 
 ![](nudl-guide-assets/set-safe-address.png)
 
