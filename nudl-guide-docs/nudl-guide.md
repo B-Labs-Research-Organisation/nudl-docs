@@ -873,6 +873,40 @@ This can be a helpful and speedy way to manage repeat payments to the same recip
 >📌 **Note:** Discord has a 4000 character limit, which accommodates approximately 100 users if you use Discord ID codes.
 
 
+#### Nudl formatting errors
+
+##### Truncated Discord IDs
+
+Opening the CSV file often truncates (shorten) the Discord IDs. 
+
+>🛠️ ***Work Tip:*** 
+>To prevent this, consider uploading your CSV file to **Google Sheets**. For guidance, visit: [How to Open a CSV File in Google Sheets](https://www.geeksforgeeks.org/how-to-open-a-csv-file-in-google-sheets/).
+>
+>If you prefer to use **LibreOffice** or **Excel** instead, following these steps:
+>1. Double-click on the downloaded CSV file.
+>2. The text import editor will appear:
+>3. Highlight the Discord ID column and change the formatting to “Text,” then click “OK” to import.
+
+
+![How to modify the CSV Text Import](nudl-guide-assets/truncated-user-id.png)
+
+##### User address not set
+
+   
+>ℹ️ ***Information:** Nudl* can only process users who have registered their wallet addresses in Nudl. If Nudl is unable to locate a user due to misspellings, non-existence, or the absence of a submitted wallet address, an alert ⚠️ will be triggered. The total transfer amount displayed serves as an additional verification tool for you to cross-check against your original disbursement calculations.
+
+
+
+![Highlights issues found during processing by Nudl](nudl-guide-assets/address-error-message.png)
+
+##### Value format incorrect
+
+
+>ℹ️ ***Information:*** Nudl is format sensitive. If you enter the data into the Payout modal without the preset “,“, Nudl will not be able to read the data entry and you will receive an error message:
+
+
+![Indicates incorrrect formatting upon entry](nudl-guide-assets/formatting-error-message.png)
+
 
 ## 🤍 Donations 
 
@@ -883,40 +917,7 @@ The donation wallet address set in the system is: **0x18f89f1cd153644e3ef6e70894
 
 # 📚 Glossary & References
 
-## Nudl Editing and formatting
-
-### Truncated Discord IDs
-
-  
->🛠️ ***Work Tip:*** Generating the CSV file often truncates (shorten) the Discord IDs. To prevent this, consider uploading your CSV file to Google Sheets. For guidance, visit: [How to Open a CSV File in Google Sheets - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-open-a-csv-file-in-google-sheets/).
-
-If you use LibreOffice or Excel instead, following these steps:
-
-1. Double-click on the downloaded CSV file.
-2. The text import editor will appear:
-3. Highlight the Discord ID column and change the formatting to “Text,” then click “OK” to import.
-
-
-![How to modify the CSV Text Import](nudl-guide-assets/truncated-user-id.png)
-
-### Error messages
-
-   
->ℹ️ ***Information:** Nudl* can only process users who have registered their wallet addresses in Nudl. If Nudl is unable to locate a user due to misspellings, non-existence, or the absence of a submitted wallet address, an alert ⚠️ will be triggered. The total transfer amount displayed serves as an additional verification tool for you to cross-check against your original disbursement calculations.
-
-
-
-![Highlights issues found during processing by Nudl](nudl-guide-assets/address-error-message.png)
-
-### Formatting
-
-
->ℹ️ ***Information:*** Nudl is format sensitive. If you enter the data into the Payout modal without the preset “,“, Nudl will not be able to read the data entry and you will receive an error message:
-
-
-![Indicates incorrrect formatting upon entry](nudl-guide-assets/formatting-error-message.png)
-
-### Glossary of Terms
+## Glossary of Terms
 
 We use the following terms interchangeably in the docs.  
 
