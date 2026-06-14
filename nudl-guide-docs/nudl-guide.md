@@ -253,167 +253,6 @@ Once set **Send notification**:
 
 
 
-### Admin Introduction
-
-At Nudl, using **admin command lines** are restricted to **Discord administrators**. 
-
-What a Nudl Admin can do:
-
-- Create and execute disbursements
-- Download files including among other Discord user identifiers, wallet addresses and values/points
-- Access and browse the address directory using different filter settings
-- Identify and notify users who have not set their address on Nudl
-- Manage token and Safe addresses
-
-What a Nudl Admin cannot do:
-
-- Admins are not able to add, modify, or delete wallets users have set within Nudl.
-
-
->📌 **Note:** While admins cannot modify any data within Nudl, they can download modifiable JSON and CSV files or modify the date in the respective payment platforms themselves.
->
->The downloadable files containing the following user data, depending on file type:
->Discord display name, unique name, user ID
->Wallet address
->Chain name and chain ID
->Disbursement value and /or points
-
-
-### Admin Basics
-
-#### Adding a token during disbursement
-
-
-Nudl offers two ways to add a token.
-
-**Option 1**: Select Manage tokens, see Quickstart for details.
-
-**Option 2**: Add tokens while building your **Safe** or **CSV Airdrop** disbursement file. The process is identical for all disbursement paths. We will use the Safe disbursement to illustrate.
-
-First, open the **Admin dashboard** with **/nudl-admin** and Select **Start payout**:
-
-![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
-
-
-Select **Safe** or **CSV Airdrop**:
-
-![Select Safe or CSV Airdrop](nudl-guide-assets/start-payout-options.png)
-
-**Set Token Address**:
-
-![Set a token address](nudl-guide-assets/safe-payout-setup.png)
-
-Click on **Choose an existing token or add a new one**:
-
-![Select existing or set new token](nudl-guide-assets/select-or-add-token.png)
-
-Click on **Add a new token (not listed)**:
-
-![Select to add a new token](nudl-guide-assets/add-a-new-token.png)
-
-Add the token contract address and **Submit**:
-
-![Add token contract and Submit](nudl-guide-assets/add-token-contract.png)
-
-
->✅ ***Congratulations:*** You have sucessfully added and saved a new token to the Safe or CSV Airdrop payment stream.
-
-
->📌 **Note:** The token address is saved and available in the future. To remove it, select **Manage token** in the **Admin Dashboard**.  For further information where to obtain a token contract address refer to Quickstart for further details.
-
-
-#### Cancelling adding a token
-
-The **Add Token Address** modal was opened but your pressed **Cancel**:
-
-![Add token contract and Submit](nudl-guide-assets/add-token-contract.png)
-
-System considers the cancellation as final and closes the process:
-
-![Ticked circle when cancelling a token add](nudl-guide-assets/cancel-adding-token.png)
-
-  
->📌 **Note:** If for any reason the modal is cancelled without adding a token contract you cannot reopen it again immediately. To reinitiate the process you have two options:
-
-
-**Option 1**: press **Back to Payout Setup** and re-enter **Set Token Address**:
-
-![Select existing or set new token](nudl-guide-assets/select-or-add-token.png)
-
-**Option 2**: provisionally select another token of your dropdown list:
-
-![Set a placeholder token](nudl-guide-assets/placeholder-token.png)
-
-Then **Edit Token Address** and re-select **Add a new token (not listed)**:
-
-![Edit a token contract address](nudl-guide-assets/edit-token-address.png)
-
-
->✅ ***Congratulations:*** You have sucessfully restarted the Add Token Address flow.
-
-#### Editing a disbursement file
-
-You can edit any of the final disbursement files to address errors or to simply modify. Press the **Edit CSV** and it will bring you back to the section where you set the amounts for each user. 
-
-![Edit disbursement file](nudl-guide-assets/edit-disbursement-file.png)
-
-
-Review any issues found by accessing **Show Last Issues**.
-
-![Show last issues.png](nudl-guide-assets/show-last-issues.png)
-
-##### Editing
-
-To modify your payment file select **Edit CSV**.  This will bring you back to the start of the payment process stating witht he modal of selected recipients. You can adjust any steps as necessary or just click through the steps.
-
-
->📌 **Note:** The Edit CSV option does not allow you to change the selected network. In this case you willl need to restart the entire disbursement path. 
-
-
->🛠️ ***Work Tip:*** In case you need to restart the disbursement process because you selected the incorrect network, you do not need to add all user values afresh:
-
-- Open **Edit CSV** of your old disbursement form, copy all users and their values.
-- Restart the disbursement path afresh using the updated network.
- - Once you added a network you will see the following options:
-
-![](nudl-guide-assets/disbursement-cmd-options.png)
-
-- Select **Manual paste** which will open the user modal.
-- Past the users and values you copied earlier and proceed as before.
-   
-#### Remove a token
-
-To remove a token open the **Admin dashboard**, select **Manage tokens** and **Select a network**:
-
-![Select a network](nudl-guide-assets/remove-token-network-select.png)
-
-Click **Remove Token**, then **Select a token to remove** and choose a token from the list:
-
-![Select the token to be removed](nudl-guide-assets/select-token-to-remove.png)
-
-Confirm **Yes, Remove**:
-
-![Confirm removal of selected token](nudl-guide-assets/confirm-token-removal.png)
-
-You have the options to manage further tokens:
-
-![Token removal confirmed](nudl-guide-assets/token-removal-success.png)
-
-  
->✅ ***Congratulations:*** You have sucessfully removed a token from Nudl.
-
-#### Manual paste
-
-All payment paths allow to manually ingest user and payment data:
-
-![Enter customised data](nudl-guide-assets/manual-paste.png)
-
-This can be a helpful and speedy way to manage repeat payments to the same recipients with the same values that you have conducted in the past and have stored in a previous disbursement file. Make sure you paste the data in the correct format. 
-
-
->📌 **Note:** Discord has a 4000 character limit, which accommodates approximately 100 users if you use Discord ID codes.
-
-
 
 ### Start Payout
 
@@ -834,9 +673,108 @@ Once saved you will receive your address overview:
 
 
 
-### Manage tokens and Safes - removal
 
+### Nudl Basics
 #### Introduction
+
+At Nudl, using **admin command lines** are restricted to **Discord administrators**. 
+
+What a Nudl Admin can do:
+
+- Create and execute disbursements
+- Download files including among other Discord user identifiers, wallet addresses and values/points
+- Access and browse the address directory using different filter settings
+- Identify and notify users who have not set their address on Nudl
+- Manage token and Safe addresses
+
+What a Nudl Admin cannot do:
+
+- Admins are not able to add, modify, or delete wallets users have set within Nudl.
+
+
+>📌 **Note:** While admins cannot modify any data within Nudl, they can download modifiable JSON and CSV files or modify the date in the respective payment platforms themselves.
+>
+>The downloadable files containing the following user data, depending on file type:
+>Discord display name, unique name, user ID
+>Wallet address
+>Chain name and chain ID
+>Disbursement value and /or points
+
+
+#### Adding a token during disbursement
+
+
+Nudl offers two ways to add a token.
+
+**Option 1**: Select Manage tokens, see Quickstart for details.
+
+**Option 2**: Add tokens while building your **Safe** or **CSV Airdrop** disbursement file. The process is identical for all disbursement paths. We will use the Safe disbursement to illustrate.
+
+First, open the **Admin dashboard** with **/nudl-admin** and Select **Start payout**:
+
+![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
+
+
+Select **Safe** or **CSV Airdrop**:
+
+![Select Safe or CSV Airdrop](nudl-guide-assets/start-payout-options.png)
+
+**Set Token Address**:
+
+![Set a token address](nudl-guide-assets/safe-payout-setup.png)
+
+Click on **Choose an existing token or add a new one**:
+
+![Select existing or set new token](nudl-guide-assets/select-or-add-token.png)
+
+Click on **Add a new token (not listed)**:
+
+![Select to add a new token](nudl-guide-assets/add-a-new-token.png)
+
+Add the token contract address and **Submit**:
+
+![Add token contract and Submit](nudl-guide-assets/add-token-contract.png)
+
+
+>✅ ***Congratulations:*** You have sucessfully added and saved a new token to the Safe or CSV Airdrop payment stream.
+
+
+>📌 **Note:** The token address is saved and available in the future. To remove it, select **Manage token** in the **Admin Dashboard**.  For further information where to obtain a token contract address refer to Quickstart for further details.
+
+
+#### Cancelling adding a token
+
+The **Add Token Address** modal was opened but your pressed **Cancel**:
+
+![Add token contract and Submit](nudl-guide-assets/add-token-contract.png)
+
+System considers the cancellation as final and closes the process:
+
+![Ticked circle when cancelling a token add](nudl-guide-assets/cancel-adding-token.png)
+
+  
+>📌 **Note:** If for any reason the modal is cancelled without adding a token contract you cannot reopen it again immediately. To reinitiate the process you have two options:
+
+
+**Option 1**: press **Back to Payout Setup** and re-enter **Set Token Address**:
+
+![Select existing or set new token](nudl-guide-assets/select-or-add-token.png)
+
+**Option 2**: provisionally select another token of your dropdown list:
+
+![Set a placeholder token](nudl-guide-assets/placeholder-token.png)
+
+Then **Edit Token Address** and re-select **Add a new token (not listed)**:
+
+![Edit a token contract address](nudl-guide-assets/edit-token-address.png)
+
+
+>✅ ***Congratulations:*** You have sucessfully restarted the Add Token Address flow.
+
+
+#### Remove a token
+
+##### Introduction
 
 How to add tokens and safes is addressed in **Quickstart** and **Adding a token during disbursement** section.
 
@@ -847,7 +785,7 @@ Start either process by opening the Admin dashboard using **/nudl-admin** and se
 ![Open the admin dashboard](nudl-guide-assets/admin-dashboard.png)
 
 
-#### Remove a token
+##### Remove a token
 
 **Select a network**:
 
@@ -873,7 +811,8 @@ The removal is confirmed:
 >✅ ***Congratulations:*** You have succcessfully removed your token from Nudl!
 
   
-#### Remove a Safe
+
+##### Remove a Safe
 
 Select **Remove Safe**:
 
@@ -893,21 +832,49 @@ The removal is confirmed:
 
 >✅ ***Congratulations:*** You have succcessfully removed your Safe from Nudl!
 
-
-Leftover docs:
-
-The donation wallet address is: 0x18f89f1cd153644e3ef6e70894c0673f7feb46e9
-
->💡 ***Pro Tip:***  fill as required
-
-
->ℹ️ ***Information:*** Nudl supports token transfers based on token addresses. Native gas tokens such as ETH on the Ethereum Mainnet or SOL on Solana do not possess a token contract and are currently **not** supported.
-
- 
->📌 **Note:** You can also manually add this data using Discord display or unique names, which may be quicker for smaller groups. Enter one line per entry. Please note that there is a 4000 character limit, which accommodates approximately 100 users if you use Discord ID codes.
-
   
-### Donations 🤍
+
+#### Editing a disbursement file
+
+You can edit any of the final disbursement files to address errors or to simply modify. Press the **Edit CSV** and it will bring you back to the section where you set the amounts for each user. You can adjust any steps as necessary or just click through the steps.
+
+![Edit disbursement file](nudl-guide-assets/edit-disbursement-file.png)
+
+
+Review any issues found by accessing **Show Last Issues**.
+
+![Show last issues.png](nudl-guide-assets/show-last-issues.png)
+
+
+
+>📌 **Note:** The Edit CSV option does not allow you to change the selected network. In this case you willl need to restart the entire disbursement path. 
+
+
+>🛠️ ***Work Tip:*** In case you need to restart the disbursement process because you selected the incorrect network, you do not need to add all user values afresh:
+>- Open **Edit CSV** of your old disbursement form, copy all users and their values.
+>- Restart the disbursement path afresh using the updated network.
+>- Once you added a network you will see the following options:
+> 
+> ![](nudl-guide-assets/disbursement-cmd-options.png)
+> 
+>- Select **Manual paste** which will open the user modal.
+>- Past the users and values you copied earlier and proceed as before.
+   
+
+#### Manual paste
+
+All payment paths allow to manually ingest user and payment data:
+
+![Enter customised data](nudl-guide-assets/manual-paste.png)
+
+This can be a helpful and speedy way to manage repeat payments to the same recipients with the same values that you have conducted in the past and have stored in a previous disbursement file. Make sure you paste the data in the correct format. 
+
+
+>📌 **Note:** Discord has a 4000 character limit, which accommodates approximately 100 users if you use Discord ID codes.
+
+
+
+## 🤍 Donations 
 
 Nudl is free to use. If you find it speeds up your payment processing, consider supporting our work 🤍. For convenience we have integrated a donation option into the payment flow.
 The donation wallet address set in the system is: **0x18f89f1cd153644e3ef6e70894c0673f7feb46e9**
