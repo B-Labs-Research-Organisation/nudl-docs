@@ -477,6 +477,9 @@ Add an optional **Donation** amount to the transaction to support work at Nudl.
         
 Or **Select token**:
 
+
+![](nudl-guide-assets/csv-airdrop-donation-set.png)
+
 ![](nudl-guide-assets/csv-airdrop-donation-set.png)
 
 Add any donation amount here and **Submit** then **Select token**:
