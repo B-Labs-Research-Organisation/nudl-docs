@@ -319,7 +319,7 @@ Generate Safe Payout JSON file and download:
 
 ##### Step 2: Upload Nudl payout form to Safe
 
-Open your [SAFE](https://safe.global/) account and first verify that the address and network correspond with the selections made in the **Safe** disbursement file above. After that, click on “New transaction” and then on “Transaction Builder”.
+Open your [SAFE](https://safe.global/) account and first verify that the address and network correspond with the selections made in the **Safe** disbursement file. After that, click on “New transaction” and then on “Transaction Builder”.
 
 ![](nudl-guide-assets/safe-dashboard.png)
 
