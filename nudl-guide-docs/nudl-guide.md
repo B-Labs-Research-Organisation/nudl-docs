@@ -14,6 +14,7 @@ It is easy to use:
 It is easily adapts to your workflow:
 * a selection of payment paths and download options are provided
 
+This screenshot shows a test image:
 
 ![test image](nudl-guide-assets/test_image.png)
 
