@@ -15,6 +15,8 @@ It is easily adapts to your workflow:
 * a selection of payment paths and download options are provided
 
 
+![test image](nudl-guide-assets/test_image.png)
+
 ## 🔍 Installing Nudl on Discord
 
 
