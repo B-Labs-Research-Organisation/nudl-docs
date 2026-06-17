@@ -14,7 +14,7 @@ It is easy to use:
 It is easily adapts to your workflow:
 * a selection of payment paths and download options are provided
 
-This screenshot shows a test image.
+This screenshot shows the special image ZEBRA-ALPHA-123.
 
 Image file: test_image.png
 
