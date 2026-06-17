@@ -14,9 +14,12 @@ It is easy to use:
 It is easily adapts to your workflow:
 * a selection of payment paths and download options are provided
 
-This screenshot shows a test image:
+This screenshot shows a test image.
 
-![test image](nudl-guide-assets/test_image.png)
+Image file: test_image.png
+
+Location: nudl-guide-assets/test_image.png
+
 
 ## 🔍 Installing Nudl on Discord
 
