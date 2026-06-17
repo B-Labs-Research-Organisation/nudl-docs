@@ -20,6 +20,9 @@ Image file: test_image.png
 
 ![ZEBRA-ALPHA-123](nudl-guide-assets/test_image.png)
 
+Image URL:
+https://raw.githubusercontent.com/B-Labs-Research-Organisation/nudl-docs/refs/heads/main/nudl-guide-docs/nudl-guide-assets/test_image.png
+
 
 ## 🔍 Installing Nudl on Discord
 
