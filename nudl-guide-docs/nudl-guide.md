@@ -1,8 +1,5 @@
 # Welcome to Nudl Guide
 
-FLOWISE_TEST_999999
-ZEBRA-ALPHA-123
-
 Nudl is a payment app which facilitates payouts to multiple users from your Safe and personal wallet.   
 
 It is easy to access: 
@@ -21,7 +18,7 @@ This screenshot shows the special image ZEBRA-ALPHA-123.
 
 Image file: test_image.png
 
-Location: nudl-guide-assets/test_image.png
+![ZEBRA-ALPHA-123](nudl-guide-assets/test_image.png)
 
 
 ## 🔍 Installing Nudl on Discord
