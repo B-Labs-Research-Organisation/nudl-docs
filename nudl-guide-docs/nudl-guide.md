@@ -1,5 +1,8 @@
 # Welcome to Nudl Guide
 
+FLOWISE_TEST_999999
+ZEBRA-ALPHA-123
+
 Nudl is a payment app which facilitates payouts to multiple users from your Safe and personal wallet.   
 
 It is easy to access: 
