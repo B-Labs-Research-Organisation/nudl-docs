@@ -14,7 +14,9 @@ It is easy to use:
 It is easily adapts to your workflow:
 * a selection of payment paths and download options are provided
 
-Refer to ZEBRA-ALPHA-123 to for further guidance:
+This screenshot shows the special image ZEBRA-ALPHA-123.
+
+Image file: test_image.png
 
 ![ZEBRA-ALPHA-123](nudl-guide-assets/test_image.png)
 
