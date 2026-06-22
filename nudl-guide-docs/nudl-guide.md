@@ -3,8 +3,8 @@
 Nudl is a payment app which facilitates payouts to multiple users from your Safe and personal wallet.   
 
 It is easy to access: 
-* users access their profile by type **/nudl**
-* admins access nudl using **/nudl-admin**
+* users access their profile by using the chat command **/nudl**
+* admins access the Admin dashboard using the chat command **/nudl-admin**
 
 It is easy to use:
 * all dashboard options are designed to be self-explanatory
